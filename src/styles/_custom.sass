@@ -170,6 +170,15 @@ figcaption, table caption
   color: $color-secundario !important
 .br-2
   border-radius: 20px !important
+.tabs-a__tab
+    background-color: $color-acento-botones
+.tabs-a.color-acento-botones .tabs-a__tab__selected,
+.tabs-a.color-acento-botones .tabs-a__tab__selected:before
+    background-color: $color-secundario !important
+.h-card
+  height: 530px
+  @media screen and (max-width: 992px)
+    height: auto !important
 /*********************************************************/
 //subrayar item en lista
 
@@ -381,14 +390,10 @@ table thead
 
 // tab tema 2
 
-.tabs-a__tab 
-    background-color:  #6E3DC6
-    color: white
-
 .tarjeta.color-secundario--borde
-    background-color:  #F2E4F5
+    background-color:  #C2F4F8
     color: #12263F
-    border: solid 1px  #F2E4F5
+    border: solid 1px  #C2F4F8
 
 // puntos calientes
 

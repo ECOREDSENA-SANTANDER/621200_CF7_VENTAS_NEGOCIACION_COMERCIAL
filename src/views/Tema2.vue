@@ -75,27 +75,27 @@
       p.mb-4 Entre los servicios postventa que debe adoptar la empresa, ya sea para productos de larga duración con garantía de fábrica o para compras menos exigentes, Martínez (2021) propone los siguientes tipos de servicios postventa:
   
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-6.col-12.col-md-12.bgmorado100.borde-redondo-izquierdo.p-0
-          .row.justify-content-center.align-items-center.p-5
-            .col-6.col-md-6.col-lg-3
-              img.mt-4(src='@/assets/curso/temas/tema2/tar1-1.png', alt='')
-            .col-sm-12.col-md-12.col-lg-8.bgmoradomedio.mt-5
-              h3.mt-2 Los servicios técnicos que se llevan sobre los productos
+        .col-lg-6.col-12.col-md-12.bg-color-5.borde-redondo-izquierdo.p-2.h-card
+          .row.justify-content-center.align-items-center.p-3
+            .col-3
+              img(src='@/assets/curso/temas/tema2/tar1-1.png', alt='')
+          .bg-color-8.mx-5.mb-3
+              h3.text-center.p-1  Los servicios técnicos que se llevan sobre los productos
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-12.col-lg-9
-              p.text-white #[b Instalación:] dependiendo del producto, generalmente se realiza en la vivienda del cliente.
-              p.text-white #[b Mantenimiento:] consiste en la revisión y puesta a punto del producto, que incluye limpieza, cambio de piezas y lubricación, de acuerdo con el uso del producto.
-              p.mb-5.text-white #[b Reparaciones:] implica la sustitución de piezas defectuosas que impiden el funcionamiento del producto. Si el producto aún está bajo garantía, las reparaciones se realizarán sin costo adicional; sin embargo, si la garantía ha vencido, el cliente deberá cubrir los costos.
-        .col-lg-6.col-12.col-md-12.bgmoradomedio.borde-redondo-derecho.p-0
-          .row.justify-content-center.align-items-center.p-5
-            .col-6.col-md-6.col-lg-3
-              img.mt-4(src='@/assets/curso/temas/tema2/tar1-1.png', alt='')
-            .col-sm-12.col-md-12.col-lg-8.bgmorado100.mt-5
-              h3.mt-2.text-white Los servicios que se prestan a quien adquiere el producto o servicio
-          .row.justify-content-center.align-items-center.mb-2.mt-5
-            .col-sm-12.col-md-12.col-lg-9.mb-5
-              p.mb-5 #[b Adiestramiento para el uso del producto:] orientaciones que ofrece la empresa al cliente para su uso eficaz.
-              p.mb-5 #[b Manejo de quejas y reclamaciones:] establecer canales de comunicación para que el cliente manifieste a la empresa sobre sus inconformidades.
+            .col-sm-12.col-md-12.col-lg-10
+              p #[b Instalación:] dependiendo del producto, generalmente se realiza en la vivienda del cliente.
+              p #[b Mantenimiento:] consiste en la revisión y puesta a punto del producto, que incluye limpieza, cambio de piezas y lubricación, de acuerdo con el uso del producto.
+              p.mb-5 #[b Reparaciones:] implica la sustitución de piezas defectuosas que impiden el funcionamiento del producto. Si el producto aún está bajo garantía, las reparaciones se realizarán sin costo adicional; sin embargo, si la garantía ha vencido, el cliente deberá cubrir los costos.
+        .col-lg-6.col-12.col-md-12.bg-color-6.borde-redondo-derecho.p-2.h-card
+          .row.justify-content-center.align-items-center.p-3
+            .col-3
+              img(src='@/assets/curso/temas/tema2/tar1-2.png', alt='')
+          .bg-color-5.mx-5.mb-2
+              h3.text-center Los servicios que se prestan a quien adquiere el producto o servicio
+          .row.justify-content-center.align-items-center.mb-2
+            .col-sm-12.col-md-12.col-lg-9.mb-0
+              p.mb-5.text-white #[b Adiestramiento para el uso del producto:] orientaciones que ofrece la empresa al cliente para su uso eficaz.
+              p.mb-0.text-white #[b Manejo de quejas y reclamaciones:] establecer canales de comunicación para que el cliente manifieste a la empresa sobre sus inconformidades.
   
       p.mb-4 Los aportes que hace Pérez (2013) sobre los tipos de servicios son los siguientes, como se detalla en la tabla 4:
   
@@ -106,13 +106,13 @@
             h5 Tabla 4. 
             | Tipos de servicios postventas en las empresas
   
-          .tabla-a.color-acento-contenido
+          .tabla-a.color-primario
             table
               caption.mt-0 Nota. Pérez  (2013).
               thead
                 tr
-                  th.bgmorado100.text-white Usuario
-                  th.bgmorado100.text-white Cliente
+                  th.br-primario.bg-color-6.text-white Usuario
+                  th.br-primario.bg-color-6.text-white Cliente
               tbody
                 tr
                   td.bggristabla2.text-center.bordederechoblanco #[b Promocionales]
