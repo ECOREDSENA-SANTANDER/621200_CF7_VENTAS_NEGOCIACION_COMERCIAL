@@ -13,33 +13,33 @@
         .col-sm-12.col-md-12.col-lg-8
           p La postventa, según Sale Forje (2018), es “la parte de la atención al cliente que reúne todas las estrategias pensadas para mejorar la experiencia después de la compra y mantener una relación duradera con los clientes, siempre correspondiendo a sus expectativas y necesidades”.
           p El servicio postventa para Pérez (2013) es “el conjunto de mecanismos y tareas que emplea la organización para, una vez efectuada la venta, lograr la satisfacción total del cliente con el objetivo de que se repita la compra, recomiende la marca o el producto, entre otras” (p. 184).
-          .row.bgmoradoclaro(data-aos="fade-left")
-            p.p-5 Es recomendable que el vendedor le de claridad al cliente, sobre todo cuando se hacen ventas por transacciones, “todos los detalles sobre el servicio, los pagos, transportes y organización” (Artal, 2010, p. 326).
+          .row.bg-color-4(data-aos="fade-left")
+            p.p-5.mb-0 Es recomendable que el vendedor le de claridad al cliente, sobre todo cuando se hacen ventas por transacciones, “todos los detalles sobre el servicio, los pagos, transportes y organización” (Artal, 2010, p. 326).
   
       p.mt-5 Como actividades de postventa o seguimiento a la venta, Artal (2010) señala:
       .row.justify-content-center.mb-5
         .col-sm-12.col-md-12.col-lg-5(data-aos="fade-right")
           ul.lista-ul--color.fa-al
             li.mb-2
-              i.fas.fa-check-circle.mt-3
+              i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 La atención en los cobros.
             li.mb-2.surrayar
-              i.fas.fa-check-circle.mt-3
+              i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 La gestión de impagados.
             li.mb-2.surrayar 
-              i.fas.fa-check-circle.mt-3
+              i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 El cumplimiento correcto de la entrega de pedidos.
             li.mb-0.surrayar
         .col-sm-12.col-md-12.col-lg-5(data-aos="fade-left")
           ul.lista-ul--color.fa-al
             li.mb-2 
-              i.fas.fa-check-circle.mt-3
+              i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 La solución de las quejas. 
             li.mb-2.surrayar 
-              i.fas.fa-check-circle.mt-3
+              i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 Las reclamaciones.
             li.mb-2.surrayar 
-              i.fas.fa-check-circle.mt-3
+              i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 Los servicios de reparación y mantenimiento (p. 327).
             li.mb-0.surrayar
 
@@ -57,8 +57,8 @@
               caption Nota. Adaptado de Pérez (2013).
               thead
                 tr
-                  th.bgazulclaro Ventajas
-                  th.bgazulclaro Inconvenientes
+                  th.bg-color-6.text-white Ventajas
+                  th.bg-color-6.text-white Inconvenientes
               tbody
                 tr
                   td.bggristabla Produce una mayor satisfacción del cliente.
@@ -190,7 +190,7 @@
   
       .row
         SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
-          .tarjeta.colorazulclaro.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico1-2.png' alt='AvatarTop')
@@ -199,7 +199,7 @@
                 h3.bgblanco.text-center.p-1(data-aos="fade-right") La atención al cliente
             .row.justify-content-center.p-4
               p.text-center(data-aos="fade-right") Por este medio se le comunica los beneficios y ventajas del producto o servicio y se recibe las quejas, peticiones y se les da solución a los clientes.
-          .tarjeta.colorazulclaro.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-8
                 img(src='@/assets/curso/temas/tema1/ico1-3.png' alt='AvatarTop')
@@ -208,7 +208,7 @@
                 h3.bgblanco.text-center.p-1(data-aos="fade-right") El seguimiento de la venta
             .row.justify-content-center.p-4
               p.text-center(data-aos="fade-right") Los vendedores deben estar pendientes de cómo se recibió la mercancía, o que los clientes retroalimenten de su experiencia en la compra.
-          .tarjeta.colorazulclaro.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico1-4.png' alt='AvatarTop')
@@ -217,7 +217,7 @@
                 h3.bgblanco.text-center.p-1(data-aos="fade-right") Las devoluciones
             .row.justify-content-center.p-4
               p.text-center(data-aos="fade-right") Debe ir unida a la garantía que ofrece el producto o a las políticas de la empresa al respecto. 
-          .tarjeta.colorazulclaro.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico1-1.png' alt='AvatarTop')
@@ -247,10 +247,11 @@
           img(src='@/assets/curso/temas/tema1/fig1.png', alt='El proceso para gestionar la calidad del servicio postventa se compone de cuatro etapas clave: planificación, implementación, control y mejora continua. Primero, es esencial planificar las estrategias y procedimientos necesarios para asegurar un servicio postventa de alta calidad. A continuación, se debe implementar estos planes de manera efectiva. Luego, es crucial controlar y supervisar el desempeño del servicio para asegurar que se mantenga dentro de los estándares establecidos. Finalmente, se debe buscar constantemente la mejora del servicio, ajustando y optimizando los procesos según sea necesario para satisfacer y superar las expectativas de los clientes.')
           p.small-text.mt-4 Nota: adaptado de Pérez (2013). 
 
-      .subt.mb-4(data-aos="fade-right")
-        .d-flex.align-items-center.mb-1
+      .row.align-items-center.mb-5.titulo-icono
+        .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
-          h3.mb-0.ms-2 Planificación de la actividad postventa
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Planificación de la actividad postventa
   
       p.mb-4 Se debe decidir qué hacer, cómo hacerlo y con qué hacerlo en referencia al proceso del servicio postventa. Es importante considerar características como el objetivo, la duración del proyecto, las personas responsables e intervinientes en el proceso, los recursos disponibles, las actividades a realizar y los indicadores para medir la actividad. Ejemplos sugeridos por Pérez (2013) se presentan en la tabla 2.
   
@@ -263,7 +264,7 @@
   
           .tabla-b
             .tabla-b__header
-              h4.mb-0 Planificación de la actividad
+              h4.mb-0.text-white Planificación de la actividad
             table
               caption Nota. SENA (2021).
               thead
@@ -323,10 +324,10 @@
               caption Nota. Adaptado de Pérez (2013).
               thead.bordearribamorado
                 tr
-                  th.bggristabla2(style="width:30%;")
-                    h3.text-center Tipo de servicio
-                  th.bggristabla2(style="width:70%;")
-                    h3.text-center Indicadores
+                  th.bg-color-6(style="width:30%;")
+                    h3.text-center.text-white Tipo de servicio
+                  th.bg-color-6(style="width:70%;")
+                    h3.text-center.text-white Indicadores
               tbody
                 tr
                   th.bordederecho.bordeabajo.text-center 
@@ -334,13 +335,13 @@
                   td.bordeizquierdoabajo 
                     ul.lista-ul--color.fa-al
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Tiempo de respuesta.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Número de quejas.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Indicadores financieros.
                 tr
                   th.bgblanco.bordederecho.bordeabajo.text-center 
@@ -348,16 +349,16 @@
                   td.bgblanco.bordeizquierdoabajo 
                     ul.lista-ul--color.fa-al
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Cumplimiento del plan.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Tiempo de respuesta.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Número de quejas.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Indicadores financieros.
                 tr
                   th.bordederecho.bordeabajo.text-center 
@@ -365,28 +366,28 @@
                   td.bordeizquierdoabajo 
                     ul.lista-ul--color.fa-al
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Tiempo de respuesta.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Porcentaje de casos solucionados.
                       li.d-flex.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Porcentaje de averías técnicas solucionadas.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Índice de devoluciones.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Valor (económico) de las devoluciones.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Número de quejas.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Tasa de fallos (casos no solucionados).
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Indicadores financieros.
                 tr
                   th.bgblanco.bordederecho.bordeabajo.text-center 
@@ -394,13 +395,13 @@
                   td.bgblanco.bordeizquierdoabajo 
                     ul.lista-ul--color.fa-al
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Tiempo de respuesta.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Índice de solución.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Valor (económico) de la inconformidad.
                 tr
                   th.bordederecho.bordeabajo.text-center 
@@ -408,18 +409,19 @@
                   td.bordeizquierdoabajo
                     ul.lista-ul--color.fa-al
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Averías por una mala operación.
                       li.mb-0 
-                        i.fas.fa-check-circle
+                        i.fas.fa-check-circle.color-secundario
                         span.mb-0 Reclamaciones originadas por 
                          p desconocimiento del cliente.
 
 
-      .subt.mb-4(data-aos="fade-right")
-        .d-flex.align-items-center.mb-1
+      .row.align-items-center.mb-5.titulo-icono
+        .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
-          h3.mb-0.ms-2 Implementación de la actividad postventa
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Implementación de la actividad postventa
   
       p.mb-4 En esta etapa de la postventa la empresa llevará a cabo lo planificado, para esto tendrá en cuenta de acuerdo con Pérez (2013):
   
@@ -451,40 +453,42 @@
                 .col-10
                   p.mt-3 La manera de tener la información necesaria para dar explicación del cumplimiento de los indicadores de gestión de la actividad de postventa.
   
-      .subt.mb-4(data-aos="fade-right")
-        .d-flex.align-items-center.mb-1
+      .row.align-items-center.mb-5.titulo-icono
+        .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
-          h3.mb-0.ms-2 Control de la actividad postventa
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Control de la actividad postventa
   
       .row(data-aos="zoom-in")
         p.mb-2 Una manera de controlar las actividades de postventa incluyendo el resultado final, es según Pérez (2013):
 
         ul.lista-ul--color.fa-al
             li.mb-0
-              i.fas.fa-check-circle.mt-3
+              i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 En la planificación, es fundamental seguir de cerca los indicadores propuestos. Es necesario verificar que los resultados coincidan con los indicadores establecidos y, en función de estos resultados, tomar las acciones adecuadas para implementar mejoras.
             li.mb-2.surrayar
-              i.fas.fa-check-circle.mt-3
+              i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 Registrar cada procedimiento en una lista de verificación, que permita compararlo con lo establecido en el protocolo correspondiente. 
             li.mb-2.surrayar
-              i.fas.fa-check-circle.mt-3
+              i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 Registrar medidas tomadas.
             li.mb-2.surrayar
-              i.fas.fa-check-circle.mt-3
+              i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 Corregir lo que no esté según los procedimientos de la empresa.
             li.mb-4.surrayar
   
-      .subt.mb-4(data-aos="fade-right")
-        .d-flex.align-items-center.mb-1
+      .row.align-items-center.mb-5.titulo-icono
+        .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
-          h3.mb-0.ms-2 Mejora de la actividad postventa
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Mejora de la actividad postventa
   
       p.mb-4 Las acciones de mejora en la postventa deben estar alineadas tanto con lo planificado y ejecutado como con los PQR (quejas, peticiones y reclamos) de los clientes. La empresa debe identificar y redefinir las fallas en los procesos, ya que una gestión efectiva de esta tarea contribuye a elevar la calidad del servicio postventa.
   
       .row.justify-content-center
         .col-sm-12.col-md-10.col-lg-4.p-0
           img(src='@/assets/curso/temas/tema1/img2.png', alt='')(data-aos="fade-right")
-        .col-sm-12.col-md-12.col-lg-6.bgazulclaro.mb-5(data-aos="fade-left")
+        .col-sm-12.col-md-12.col-lg-6.bg-color-9.mb-5(data-aos="fade-left")
           .row.align-items-center.justify-content-center.mt-5.mb-5
             .col-sm-12.col-md-12.col-lg-9.mb-5.mt-5
               h3.mt-4.mb-4 Un ejemplo de una situación de mejora puede ser que el 10 % de los clientes, se queje que los mantenimientos no se están cumpliendo, en este caso debe identificar que ocasiona esa situación y darle solución.
@@ -498,10 +502,11 @@
         p El servicio postventa tiene una funcionalidad muy parecida al servicio al cliente y se deben trabajar en conjunto, puesto que tienen alto grado de dependencia la una de la otra. Las grandes organizaciones montan estos servicios por separados, pero las MiPymes puede integrar estos servicios o subcontratarlos.  
         p.mb-5 Entonces, ¿cómo estructurar un servicio postventa? Según Pérez (2013), se deben considerar tanto la estructura como las funciones del servicio, tal como se detalla a continuación:
   
-      .subt.mb-4(data-aos="fade-right")
-        .d-flex.align-items-center.mb-1
+      .row.align-items-center.mb-5.titulo-icono
+        .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
-          h3.mb-0.ms-2 Recepción y atención de incidencias
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Recepción y atención de incidencias
   
       p Este es el punto en el que el cliente presenta su solicitud, queja o reclamo. El empleado, siguiendo procedimientos establecidos, debe proporcionar respuestas y tratar las incidencias de manera adecuada, de acuerdo con la gestión de calidad de la empresa.
       p.mb-4 Las funciones asociadas a esta estructura incluyen:
@@ -529,62 +534,65 @@
               h3.mb-3.text-center Gestión de las incidencias
               p.mb-0.text-center La persona encargada debe tener capacidad dependiendo de la solicitud de dar solución desde su rol, pero si el caso tiene mayor complejidad, escalarlo a la unidad correspondiente. Debe estar atento a si se le solucionó el problema y en lo posible hacer seguimiento para conocer si su solicitud o problema tuvo solución.
   
-      .subt.mb-4(data-aos="fade-right")
-        .d-flex.align-items-center.mb-1
+      .row.align-items-center.mb-5.titulo-icono
+        .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
-          h3.mb-0.ms-2 Servicio de asistencia técnica
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Servicio de asistencia técnica
   
       p.mb-4 El primer proceso debe estar coordinado con un servicio de asistencia técnica especializado en el producto o servicio para llevar a cabo mantenimientos y reparaciones. Dependiendo del producto, el fabricante puede proporcionar apoyo técnico a través de la garantía. Este servicio puede ofrecerse de diversas maneras, tales como:
   
       .row.justify-content-center.justify-content-center
         .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
           .overflow-hidden.h-100.p-3
-            .row.align-items-center.justify-content-center.bgfondotema1.p-4
+            .row.align-items-center.justify-content-center.bg-color-4.br-2.p-4
               .col-5
                 img(src='@/assets/curso/temas/tema1/ico2-1.png', alt='').img95.mb-4
               .row.justify-content-center.mb-3
                 .col-12
-                  .bgmoradomedio.p-1 
+                  .bg-color-8.p-1 
                     h3.text-center.mb-0 Autoreparación asistida
               p.text-center.p-3 Ayudar al cliente a realizar la reparación apoyado por un técnico de manera telefónica, virtual, mensajes, entre otras.
         .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
           .overflow-hidden.h-100.p-3
-            .row.align-items-center.justify-content-center.bgfondotema1.p-4
+            .row.align-items-center.justify-content-center.bg-color-4.br-2.p-4
               .col-5
                 img(src='@/assets/curso/temas/tema1/ico2-2.png', alt='').mb-4
               .row.justify-content-center.mb-3
                 .col-12
-                  .bgmoradomedio.p-1 
+                  .bg-color-8.p-1 
                     h3.text-center.mb-0 Reparación en el sitio del cliente
               p.text-center.p-3 El técnico debe trasladarse al sitio donde se encuentre el producto o servicio.
         .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
           .overflow-hidden.h-100.p-3
-            .row.align-items-center.justify-content-center.bgfondotema1.p-4
+            .row.align-items-center.justify-content-center.bg-color-4.br-2.p-4
               .col-5
                 img(src='@/assets/curso/temas/tema1/ico2-3.png', alt='').mb-4
               .row.justify-content-center.mb-3
                 .col-12
-                  .bgmoradomedio.p-1 
+                  .bg-color-8.p-1 
                     h3.text-center.mb-0 Reparación en el taller
               p.text-center.p-1 El cliente lleva el producto a reparación al sitio donde compró o donde se le indique para el cumplimiento de la garantía o si no la tiene, pagar por el servicio. 
   
-      .subt.mb-4(data-aos="fade-right")
-        .d-flex.align-items-center.mb-1
+      .row.align-items-center.mb-5.titulo-icono
+        .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
-          h3.mb-0.ms-2 Otros servicios implicados en la postventa
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Otros servicios implicados en la postventa
   
       p.mb-4 Servicios que son un apoyo a la labor de la postventa y que dependen de otros departamentos de la organización como transporte, almacén y el seguimiento al finalizar la prestación del servicio postventa.
   
-      .subt.mb-4(data-aos="fade-right")
-        .d-flex.align-items-center.mb-1
+      .row.align-items-center.mb-5.titulo-icono
+        .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
-          h3.mb-0.ms-2 Caso práctico: procedimiento para estructurar un servicio postventa
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Caso práctico: procedimiento para estructurar un servicio postventa
   
       p.mb-4 La empresa Computer Working se dedica a la venta de computadores de mesa, todo en uno y portátiles. Una de las funciones de su servicio postventa es el mantenimiento y reparación de los computadores. En una incidencia, estos serían los posibles desarrollos:
   
       .row
         SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
-          .tarjeta.moradaclara.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico3-1.png' alt='AvatarTop').img95
@@ -594,7 +602,7 @@
             .row.justify-content-center.p-2
               p.text-center(data-aos="fade-right") #[b Atención de la llamada:] se recibe la llamada de un cliente con problemas en su computador que aún tiene garantía. 
               p.text-center(data-aos="fade-right") #[b Gestión de la llamada:] se le pide ciertas instrucciones, como, si está instalado a la energía, si la batería está cargada, entre otras. 
-          .tarjeta.moradaclara.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico3-2.png' alt='AvatarTop')
@@ -604,7 +612,7 @@
             .row.justify-content-center.p-2
               p.text-center(data-aos="fade-right") Si no está enchufado y lo enchufa y enciende correctamente, fin de la llamada.
               p.text-center(data-aos="fade-right") Si estaba encendido y no funciona, entonces se reporta al Servicio de Asistencia Técnica.
-          .tarjeta.moradaclara.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico3-3.png' alt='AvatarTop')
@@ -614,7 +622,7 @@
             .row.justify-content-center.p-2
               p.text-center(data-aos="fade-right") El Servicio de Asistencia Técnica reconoce fallos amparados en la garantía y recomienda un cambio de computador.
               p.text-center(data-aos="fade-right") Se registra el dictamen de la incidencia y se pasa a recoger el computador al sitio donde se encuentra el cliente o recibe el PC en el punto de venta.
-          .tarjeta.moradaclara.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico3-4.png' alt='AvatarTop')
