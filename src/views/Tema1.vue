@@ -7,18 +7,18 @@
           span 1
         h1 Postventa
   
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-md-10.col-lg-4
-          img(src='@/assets/curso/temas/tema1/img1.png', alt='')(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema1/img1.png', alt='')
         .col-sm-12.col-md-12.col-lg-8
           p La postventa, según Sale Forje (2018), es “la parte de la atención al cliente que reúne todas las estrategias pensadas para mejorar la experiencia después de la compra y mantener una relación duradera con los clientes, siempre correspondiendo a sus expectativas y necesidades”.
           p El servicio postventa para Pérez (2013) es “el conjunto de mecanismos y tareas que emplea la organización para, una vez efectuada la venta, lograr la satisfacción total del cliente con el objetivo de que se repita la compra, recomiende la marca o el producto, entre otras” (p. 184).
-          .row.bg-color-4(data-aos="fade-left")
+          .row.bg-color-4
             p.p-5.mb-0 Es recomendable que el vendedor le de claridad al cliente, sobre todo cuando se hacen ventas por transacciones, “todos los detalles sobre el servicio, los pagos, transportes y organización” (Artal, 2010, p. 326).
   
-      p.mt-5 Como actividades de postventa o seguimiento a la venta, Artal (2010) señala:
-      .row.justify-content-center.mb-5
-        .col-sm-12.col-md-12.col-lg-5(data-aos="fade-right")
+      p.mt-5(data-aos="fade-left") Como actividades de postventa o seguimiento a la venta, Artal (2010) señala:
+      .row.justify-content-center.mb-5(data-aos="fade-left")
+        .col-sm-12.col-md-12.col-lg-5
           ul.lista-ul--color.fa-al
             li.mb-2
               i.fas.fa-check-circle.mt-3.color-secundario
@@ -30,7 +30,7 @@
               i.fas.fa-check-circle.mt-3.color-secundario
               span.mb-2.mt-3 El cumplimiento correcto de la entrega de pedidos.
             li.mb-0.surrayar
-        .col-sm-12.col-md-12.col-lg-5(data-aos="fade-left")
+        .col-sm-12.col-md-12.col-lg-5
           ul.lista-ul--color.fa-al
             li.mb-2 
               i.fas.fa-check-circle.mt-3.color-secundario
@@ -43,16 +43,16 @@
               span.mb-2.mt-3 Los servicios de reparación y mantenimiento (p. 327).
             li.mb-0.surrayar
 
-      p.mt-4.mb-5 Según Pérez (2013), las ventajas e inconvenientes del servicio postventa son las siguientes:   
+      p.mt-4.mb-5(data-aos="fade-left") Según Pérez (2013), las ventajas e inconvenientes del servicio postventa son las siguientes:   
   
-      .row.justify-content-center.align-items-center.mb-2
+      .row.justify-content-center.align-items-center.mb-2(data-aos="fade-left")
         .col-12.col-md-12.col-lg-10
   
           .titulo-sexto.color-secundario.mb-4
             h5 Tabla 1. 
             | Ventajas e inconvenientes del servicio postventa en la empresa
   
-          .tabla-a.color-primario(data-aos="zoom-in")
+          .tabla-a.color-primario
             table
               caption Nota. Adaptado de Pérez (2013).
               thead
@@ -77,12 +77,12 @@
                   td.bggristabla Provoca mayores necesidades de personal.
   
       separador
-      #t_1_1.titulo-segundo.mb-4
+      #t_1_1.titulo-segundo.mb-4(data-aos="fade-left")
         h2 1.1 Etapas de la postventa
-      p La venta debe considerarse un ciclo dinámico con el cliente, de modo que la venta realizada hoy debe repetirse mañana y así sucesivamente. En los productos de consumo masivo, esto es fundamental con los mismos productos. Sin embargo, en productos y servicios que no son de compra habitual, se pueden ofrecer productos y servicios complementarios. Por ejemplo, a una persona que compra un vehículo familiar se le pueden vender repuestos, garantías de mantenimiento, reparaciones, entre otros.
-      p.mb-4 Para lograr que el cliente regrese se debe montar un programa de fidelización que según Escamilla (2020) “consiste en desarrollar una relación positiva entre los consumidores y la empresa, para que regresen a comprar tus productos o servicios”. La postventa debe seguir unas etapas y acciones que lleve al cliente a regresar al negocio, esto es:
+      p(data-aos="fade-left") La venta debe considerarse un ciclo dinámico con el cliente, de modo que la venta realizada hoy debe repetirse mañana y así sucesivamente. En los productos de consumo masivo, esto es fundamental con los mismos productos. Sin embargo, en productos y servicios que no son de compra habitual, se pueden ofrecer productos y servicios complementarios. Por ejemplo, a una persona que compra un vehículo familiar se le pueden vender repuestos, garantías de mantenimiento, reparaciones, entre otros.
+      p.mb-4(data-aos="fade-left") Para lograr que el cliente regrese se debe montar un programa de fidelización que según Escamilla (2020) “consiste en desarrollar una relación positiva entre los consumidores y la empresa, para que regresen a comprar tus productos o servicios”. La postventa debe seguir unas etapas y acciones que lleve al cliente a regresar al negocio, esto es:
   
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
         .col-lg-10.col-md-12.col-sm-12
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row.col-xl-11.m-auto(titulo="Atraer")
@@ -180,15 +180,15 @@
                 .col-lg-12
                   p Retener clientes es la labor del día a día del asesor comercial, cada vez que un cliente visita el punto de venta o realiza una compra por otro medio, la empresa debe asegurarse que la experiencia de ese cliente sea única. Un cliente puede o no repetir la compra porque no tiene otro lugar donde comprar, en cuanto tenga otra opción deja de comprar. Es por eso que la empresa debe hacer esfuerzos por mantener esa relación por largo plazo.
   
-      p Por tanto, el vendedor debe tener en cuenta estas etapas y la empresa considerar llevar a cabo programas de atención de servicio al cliente y servicio de postventa, para las MiPymes se debe considerar unir estos programas en la medida de sus recursos. 
+      p(data-aos="fade-left") Por tanto, el vendedor debe tener en cuenta estas etapas y la empresa considerar llevar a cabo programas de atención de servicio al cliente y servicio de postventa, para las MiPymes se debe considerar unir estos programas en la medida de sus recursos. 
   
       separador
-      #t_1_2.titulo-segundo.mb-4
+      #t_1_2.titulo-segundo.mb-4(data-aos="fade-left")
         h2 1.2 Elementos de la postventa
   
-      p.mb-4 La postventa incluye una serie de acciones cuya finalidad es garantizar la satisfacción del cliente, con el objetivo de que quede encantado y regrese. Según Ramírez (2018), estas acciones deben estar acompañadas de ciertos elementos esenciales en la postventa. El cliente debe sentir que la empresa lo comprende, resuelve sus quejas y atiende sus dudas. Por tanto, los tres elementos que constituyen la postventa, según Ramírez (2018), son:
+      p.mb-4(data-aos="fade-left") La postventa incluye una serie de acciones cuya finalidad es garantizar la satisfacción del cliente, con el objetivo de que quede encantado y regrese. Según Ramírez (2018), estas acciones deben estar acompañadas de ciertos elementos esenciales en la postventa. El cliente debe sentir que la empresa lo comprende, resuelve sus quejas y atiende sus dudas. Por tanto, los tres elementos que constituyen la postventa, según Ramírez (2018), son:
   
-      .row
+      .row(data-aos="fade-left")
         SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
@@ -196,50 +196,50 @@
                 img(src='@/assets/curso/temas/tema1/ico1-2.png' alt='AvatarTop')
             .row.justify-content-center
               .col-10
-                h3.bgblanco.text-center.p-1(data-aos="fade-right") La atención al cliente
+                h3.bgblanco.text-center.p-1 La atención al cliente
             .row.justify-content-center.p-4
-              p.text-center(data-aos="fade-right") Por este medio se le comunica los beneficios y ventajas del producto o servicio y se recibe las quejas, peticiones y se les da solución a los clientes.
+              p.text-center Por este medio se le comunica los beneficios y ventajas del producto o servicio y se recibe las quejas, peticiones y se les da solución a los clientes.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-8
                 img(src='@/assets/curso/temas/tema1/ico1-3.png' alt='AvatarTop')
             .row.justify-content-center
               .col-10
-                h3.bgblanco.text-center.p-1(data-aos="fade-right") El seguimiento de la venta
+                h3.bgblanco.text-center.p-1 El seguimiento de la venta
             .row.justify-content-center.p-4
-              p.text-center(data-aos="fade-right") Los vendedores deben estar pendientes de cómo se recibió la mercancía, o que los clientes retroalimenten de su experiencia en la compra.
+              p.text-center Los vendedores deben estar pendientes de cómo se recibió la mercancía, o que los clientes retroalimenten de su experiencia en la compra.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico1-4.png' alt='AvatarTop')
             .row.justify-content-center
               .col-10
-                h3.bgblanco.text-center.p-1(data-aos="fade-right") Las devoluciones
+                h3.bgblanco.text-center.p-1 Las devoluciones
             .row.justify-content-center.p-4
-              p.text-center(data-aos="fade-right") Debe ir unida a la garantía que ofrece el producto o a las políticas de la empresa al respecto. 
+              p.text-center Debe ir unida a la garantía que ofrece el producto o a las políticas de la empresa al respecto. 
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico1-1.png' alt='AvatarTop')
             .row.justify-content-center
               .col-10
-                h3.bgblanco.text-center.p-1(data-aos="fade-right") La recompra
+                h3.bgblanco.text-center.p-1 La recompra
             .row.justify-content-center.p-4
-              p.text-center(data-aos="fade-right") Finalidad de lo anterior es que el cliente regrese y continúe haciéndolo. 
+              p.text-center Finalidad de lo anterior es que el cliente regrese y continúe haciéndolo. 
 
 
 
 
-      p Cualquier acción que respecto a un programa de postventa tenga la empresa debe tener en cuenta estos elementos anteriormente mencionados que componen la postventa.
+      p(data-aos="fade-left") Cualquier acción que respecto a un programa de postventa tenga la empresa debe tener en cuenta estos elementos anteriormente mencionados que componen la postventa.
   
       separador
-      #t_1_3.titulo-segundo.mb-4
+      #t_1_3.titulo-segundo.mb-4(data-aos="fade-left")
         h2 1.3 Proceso de la calidad del servicio postventa
   
-      p Lo importante de llevar a cabo un servicio postventa es conocer los efectos que los esfuerzos de la empresa tienen en los clientes para lograr fidelizarlos; esto se traduce en la calidad que perciben los clientes. Según Kotler y Armstrong (2012), la calidad es el “grado en el que el desempeño percibido de un producto coincide con las expectativas del consumidor” (p. 41).
-      p.mb-5 Para que la empresa gestione la calidad en el servicio postventa Pérez (2013) propone el siguiente proceso: 
+      p(data-aos="fade-left") Lo importante de llevar a cabo un servicio postventa es conocer los efectos que los esfuerzos de la empresa tienen en los clientes para lograr fidelizarlos; esto se traduce en la calidad que perciben los clientes. Según Kotler y Armstrong (2012), la calidad es el “grado en el que el desempeño percibido de un producto coincide con las expectativas del consumidor” (p. 41).
+      p.mb-5(data-aos="fade-left") Para que la empresa gestione la calidad en el servicio postventa Pérez (2013) propone el siguiente proceso: 
   
-      .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-md-12.col-lg-8
           .titulo-sexto.color-secundario.mb-4
             h5 Figura 1. 
@@ -247,15 +247,15 @@
           img(src='@/assets/curso/temas/tema1/fig1.png', alt='El proceso para gestionar la calidad del servicio postventa se compone de cuatro etapas clave: planificación, implementación, control y mejora continua. Primero, es esencial planificar las estrategias y procedimientos necesarios para asegurar un servicio postventa de alta calidad. A continuación, se debe implementar estos planes de manera efectiva. Luego, es crucial controlar y supervisar el desempeño del servicio para asegurar que se mantenga dentro de los estándares establecidos. Finalmente, se debe buscar constantemente la mejora del servicio, ajustando y optimizando los procesos según sea necesario para satisfacer y superar las expectativas de los clientes.')
           p.small-text.mt-4 Nota: adaptado de Pérez (2013). 
 
-      .row.align-items-center.mb-5.titulo-icono
+      .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Planificación de la actividad postventa
   
-      p.mb-4 Se debe decidir qué hacer, cómo hacerlo y con qué hacerlo en referencia al proceso del servicio postventa. Es importante considerar características como el objetivo, la duración del proyecto, las personas responsables e intervinientes en el proceso, los recursos disponibles, las actividades a realizar y los indicadores para medir la actividad. Ejemplos sugeridos por Pérez (2013) se presentan en la tabla 2.
+      p.mb-4(data-aos="fade-left") Se debe decidir qué hacer, cómo hacerlo y con qué hacerlo en referencia al proceso del servicio postventa. Es importante considerar características como el objetivo, la duración del proyecto, las personas responsables e intervinientes en el proceso, los recursos disponibles, las actividades a realizar y los indicadores para medir la actividad. Ejemplos sugeridos por Pérez (2013) se presentan en la tabla 2.
   
-      .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in")
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
         .col-12.col-md-12.col-lg-12
   
           .titulo-sexto.color-secundario.mb-4
@@ -310,9 +310,9 @@
                   td.bordeizquierdoabajo $250.000
                   td.bordeizquierdoabajo Tiempo de respuesta
   
-      p.mb-4 A continuación, se presentan algunos indicadores que se utilizan con frecuencia. La empresa, según la actividad, puede aportar otros indicadores adicionales, los cuales están detallados en la tabla 3.
+      p.mb-4(data-aos="fade-left") A continuación, se presentan algunos indicadores que se utilizan con frecuencia. La empresa, según la actividad, puede aportar otros indicadores adicionales, los cuales están detallados en la tabla 3.
   
-      .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-12.col-md-12.col-lg-8
   
           .titulo-sexto.color-secundario.mb-4
@@ -417,15 +417,15 @@
                          p desconocimiento del cliente.
 
 
-      .row.align-items-center.mb-5.titulo-icono
+      .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Implementación de la actividad postventa
   
-      p.mb-4 En esta etapa de la postventa la empresa llevará a cabo lo planificado, para esto tendrá en cuenta de acuerdo con Pérez (2013):
+      p.mb-4(data-aos="fade-left") En esta etapa de la postventa la empresa llevará a cabo lo planificado, para esto tendrá en cuenta de acuerdo con Pérez (2013):
   
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-10.col-md-12.col-sm-12
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row.col-xl-11.m-auto(titulo="Capacitación al equipo de postventa")
@@ -453,13 +453,13 @@
                 .col-10
                   p.mt-3 La manera de tener la información necesaria para dar explicación del cumplimiento de los indicadores de gestión de la actividad de postventa.
   
-      .row.align-items-center.mb-5.titulo-icono
+      .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Control de la actividad postventa
   
-      .row(data-aos="zoom-in")
+      .row(data-aos="fade-left")
         p.mb-2 Una manera de controlar las actividades de postventa incluyendo el resultado final, es según Pérez (2013):
 
         ul.lista-ul--color.fa-al
@@ -487,17 +487,17 @@
   
       .row.justify-content-center
         .col-sm-12.col-md-10.col-lg-4.p-0
-          img(src='@/assets/curso/temas/tema1/img2.png', alt='')(data-aos="fade-right")
-        .col-sm-12.col-md-12.col-lg-6.bg-color-9.mb-5(data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema1/img2.png', alt='')
+        .col-sm-12.col-md-12.col-lg-6.bg-color-9.mb-5
           .row.align-items-center.justify-content-center.mt-5.mb-5
             .col-sm-12.col-md-12.col-lg-9.mb-5.mt-5
               h3.mt-4.mb-4 Un ejemplo de una situación de mejora puede ser que el 10 % de los clientes, se queje que los mantenimientos no se están cumpliendo, en este caso debe identificar que ocasiona esa situación y darle solución.
   
       separador
-      #t_1_4.titulo-segundo.mb-4
+      #t_1_4.titulo-segundo.mb-4(data-aos="fade-left")
         h2 1.4 Procedimiento para estructurar un servicio postventa
   
-      .row
+      .row(data-aos="fade-left")
         p A continuación, se presentan unas actividades que corresponden a un servicio postventa, cada una de ellas tiene una serie de actividades con secuencias definidas para realizarlas de manera correcta, e incluso a su interior demanda otras actividades. 
         p El servicio postventa tiene una funcionalidad muy parecida al servicio al cliente y se deben trabajar en conjunto, puesto que tienen alto grado de dependencia la una de la otra. Las grandes organizaciones montan estos servicios por separados, pero las MiPymes puede integrar estos servicios o subcontratarlos.  
         p.mb-5 Entonces, ¿cómo estructurar un servicio postventa? Según Pérez (2013), se deben considerar tanto la estructura como las funciones del servicio, tal como se detalla a continuación:
@@ -508,42 +508,42 @@
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Recepción y atención de incidencias
   
-      p Este es el punto en el que el cliente presenta su solicitud, queja o reclamo. El empleado, siguiendo procedimientos establecidos, debe proporcionar respuestas y tratar las incidencias de manera adecuada, de acuerdo con la gestión de calidad de la empresa.
-      p.mb-4 Las funciones asociadas a esta estructura incluyen:
+      p(data-aos="fade-left") Este es el punto en el que el cliente presenta su solicitud, queja o reclamo. El empleado, siguiendo procedimientos establecidos, debe proporcionar respuestas y tratar las incidencias de manera adecuada, de acuerdo con la gestión de calidad de la empresa.
+      p.mb-4(data-aos="fade-left") Las funciones asociadas a esta estructura incluyen:
   
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-          .crd_hover_txt.borde-redondo-abajo(data-aos="flip-left")
+          .crd_hover_txt.borde-redondo-abajo
             .crd_hover_txt--img
               img(src="@/assets/curso/temas/tema1/tan1-1.png", alt="alt")
             .crd_hover_txt--body.borde-redondo-abajo
               h3.mb-3.text-center Atención a las incidencias
               p.mb-0.text-center Una persona con perfil comunicativo y protocolos para atender y recoger las solicitudes del cliente.
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-          .crd_hover_txt.borde-redondo-abajo(data-aos="flip-left")
+          .crd_hover_txt.borde-redondo-abajo
             .crd_hover_txt--img
               img(src="@/assets/curso/temas/tema1/tan1-2.png", alt="alt")
             .crd_hover_txt--body.borde-redondo-abajo
               h3.mb-3.text-center Distribución de las incidencias
               p.mb-0.text-center Una persona encargada de canalizar las incidencias hacia el área correspondiente. Por ejemplo, si el problema está relacionado con facturas, lo escalará al departamento de facturación; si se trata de daños, lo dirigirá al área de reparaciones, y así sucesivamente.
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-          .crd_hover_txt.borde-redondo-abajo(data-aos="flip-left")
+          .crd_hover_txt.borde-redondo-abajo
             .crd_hover_txt--img
               img(src="@/assets/curso/temas/tema1/tan1-3.png", alt="alt")
             .crd_hover_txt--body.borde-redondo-abajo
               h3.mb-3.text-center Gestión de las incidencias
               p.mb-0.text-center La persona encargada debe tener capacidad dependiendo de la solicitud de dar solución desde su rol, pero si el caso tiene mayor complejidad, escalarlo a la unidad correspondiente. Debe estar atento a si se le solucionó el problema y en lo posible hacer seguimiento para conocer si su solicitud o problema tuvo solución.
   
-      .row.align-items-center.mb-5.titulo-icono
+      .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Servicio de asistencia técnica
   
-      p.mb-4 El primer proceso debe estar coordinado con un servicio de asistencia técnica especializado en el producto o servicio para llevar a cabo mantenimientos y reparaciones. Dependiendo del producto, el fabricante puede proporcionar apoyo técnico a través de la garantía. Este servicio puede ofrecerse de diversas maneras, tales como:
+      p.mb-4(data-aos="fade-left") El primer proceso debe estar coordinado con un servicio de asistencia técnica especializado en el producto o servicio para llevar a cabo mantenimientos y reparaciones. Dependiendo del producto, el fabricante puede proporcionar apoyo técnico a través de la garantía. Este servicio puede ofrecerse de diversas maneras, tales como:
   
-      .row.justify-content-center.justify-content-center
-        .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
+      .row.justify-content-center.justify-content-center(data-aos="fade-left")
+        .col-sm-12.col-lg-4.col-md-12.mb-4
           .overflow-hidden.h-100.p-3
             .row.align-items-center.justify-content-center.bg-color-4.br-2.p-4
               .col-5
@@ -553,7 +553,7 @@
                   .bg-color-8.p-1 
                     h3.text-center.mb-0 Autoreparación asistida
               p.text-center.p-3 Ayudar al cliente a realizar la reparación apoyado por un técnico de manera telefónica, virtual, mensajes, entre otras.
-        .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
+        .col-sm-12.col-lg-4.col-md-12.mb-4
           .overflow-hidden.h-100.p-3
             .row.align-items-center.justify-content-center.bg-color-4.br-2.p-4
               .col-5
@@ -563,7 +563,7 @@
                   .bg-color-8.p-1 
                     h3.text-center.mb-0 Reparación en el sitio del cliente
               p.text-center.p-3 El técnico debe trasladarse al sitio donde se encuentre el producto o servicio.
-        .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
+        .col-sm-12.col-lg-4.col-md-12.mb-4
           .overflow-hidden.h-100.p-3
             .row.align-items-center.justify-content-center.bg-color-4.br-2.p-4
               .col-5
@@ -574,23 +574,23 @@
                     h3.text-center.mb-0 Reparación en el taller
               p.text-center.p-1 El cliente lleva el producto a reparación al sitio donde compró o donde se le indique para el cumplimiento de la garantía o si no la tiene, pagar por el servicio. 
   
-      .row.align-items-center.mb-5.titulo-icono
+      .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Otros servicios implicados en la postventa
   
-      p.mb-4 Servicios que son un apoyo a la labor de la postventa y que dependen de otros departamentos de la organización como transporte, almacén y el seguimiento al finalizar la prestación del servicio postventa.
+      p.mb-4(data-aos="fade-left") Servicios que son un apoyo a la labor de la postventa y que dependen de otros departamentos de la organización como transporte, almacén y el seguimiento al finalizar la prestación del servicio postventa.
   
-      .row.align-items-center.mb-5.titulo-icono
+      .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/icono.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Caso práctico: procedimiento para estructurar un servicio postventa
   
-      p.mb-4 La empresa Computer Working se dedica a la venta de computadores de mesa, todo en uno y portátiles. Una de las funciones de su servicio postventa es el mantenimiento y reparación de los computadores. En una incidencia, estos serían los posibles desarrollos:
+      p.mb-4(data-aos="fade-left") La empresa Computer Working se dedica a la venta de computadores de mesa, todo en uno y portátiles. Una de las funciones de su servicio postventa es el mantenimiento y reparación de los computadores. En una incidencia, estos serían los posibles desarrollos:
   
-      .row
+      .row(data-aos="fade-left")
         SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
@@ -598,40 +598,40 @@
                 img(src='@/assets/curso/temas/tema1/ico3-1.png' alt='AvatarTop').img95
             .row.justify-content-center
               .col-10
-                h3.bgblanco.text-center.p-2(data-aos="fade-right") Recepción y atención de incidencias
+                h3.bgblanco.text-center.p-2 Recepción y atención de incidencias
             .row.justify-content-center.p-2
-              p.text-center(data-aos="fade-right") #[b Atención de la llamada:] se recibe la llamada de un cliente con problemas en su computador que aún tiene garantía. 
-              p.text-center(data-aos="fade-right") #[b Gestión de la llamada:] se le pide ciertas instrucciones, como, si está instalado a la energía, si la batería está cargada, entre otras. 
+              p.text-center #[b Atención de la llamada:] se recibe la llamada de un cliente con problemas en su computador que aún tiene garantía. 
+              p.text-center #[b Gestión de la llamada:] se le pide ciertas instrucciones, como, si está instalado a la energía, si la batería está cargada, entre otras. 
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico3-2.png' alt='AvatarTop')
             .row.justify-content-center
               .col-10
-                h3.bgblanco.text-center.p-2(data-aos="fade-right") Gestión de la llamada
+                h3.bgblanco.text-center.p-2 Gestión de la llamada
             .row.justify-content-center.p-2
-              p.text-center(data-aos="fade-right") Si no está enchufado y lo enchufa y enciende correctamente, fin de la llamada.
-              p.text-center(data-aos="fade-right") Si estaba encendido y no funciona, entonces se reporta al Servicio de Asistencia Técnica.
+              p.text-center Si no está enchufado y lo enchufa y enciende correctamente, fin de la llamada.
+              p.text-center Si estaba encendido y no funciona, entonces se reporta al Servicio de Asistencia Técnica.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico3-3.png' alt='AvatarTop')
             .row.justify-content-center
               .col-10
-                h3.bgblanco.text-center.p-2(data-aos="fade-right") Servicio de Asistencia Técnica
+                h3.bgblanco.text-center.p-2 Servicio de Asistencia Técnica
             .row.justify-content-center.p-2
-              p.text-center(data-aos="fade-right") El Servicio de Asistencia Técnica reconoce fallos amparados en la garantía y recomienda un cambio de computador.
-              p.text-center(data-aos="fade-right") Se registra el dictamen de la incidencia y se pasa a recoger el computador al sitio donde se encuentra el cliente o recibe el PC en el punto de venta.
+              p.text-center El Servicio de Asistencia Técnica reconoce fallos amparados en la garantía y recomienda un cambio de computador.
+              p.text-center Se registra el dictamen de la incidencia y se pasa a recoger el computador al sitio donde se encuentra el cliente o recibe el PC en el punto de venta.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico3-4.png' alt='AvatarTop')
             .row.justify-content-center
               .col-10
-                h3.bgblanco.text-center.p-2(data-aos="fade-right") Gestión final
+                h3.bgblanco.text-center.p-2 Gestión final
             .row.justify-content-center.p-2
-              p.text-center(data-aos="fade-right") Se realiza el cambio del PC averiado por uno nuevo.
-              p.text-center(data-aos="fade-right") Se llama posteriormente a preguntar cómo se siente con el servicio prestado y su nuevo PC.
+              p.text-center Se realiza el cambio del PC averiado por uno nuevo.
+              p.text-center Se llama posteriormente a preguntar cómo se siente con el servicio prestado y su nuevo PC.
   
   
   </template>

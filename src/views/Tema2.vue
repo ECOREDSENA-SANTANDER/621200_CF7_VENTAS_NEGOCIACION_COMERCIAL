@@ -7,9 +7,9 @@
           span 2
         h1 Herramientas postventa
   
-      p.mb-4 Para que la estructura del servicio postventa funcione de manera eficaz, Pérez (2013) propone que la empresa cuente con las siguientes herramientas para poder implantar una acción de postventa:
+      p.mb-4(data-aos="fade-left") Para que la estructura del servicio postventa funcione de manera eficaz, Pérez (2013) propone que la empresa cuente con las siguientes herramientas para poder implantar una acción de postventa:
   
-      .row.justify-content-center.align-items-center
+      .row.justify-content-center.align-items-center(data-aos="fade-left")
         .col-sm-12.col-md-12.col-lg-12
           TabsA.color-acento-botones
             .tarjeta.color-secundario--borde.p-4(titulo="Base de datos de los clientes")
@@ -39,7 +39,7 @@
   
       separador
   
-      .row.justify-content-center.align-items-center
+      .row.justify-content-center.align-items-center(data-aos="fade-left")
         .col-sm-12.col-md-12.col-lg-9
           #t_2_1.titulo-segundo.mb-4
             h2 2.1 Importancia del servicio postventa    
@@ -48,7 +48,7 @@
         .col-12.col-md-6.col-lg-3
           img(src='@/assets/curso/temas/tema2/img1.png', alt='')
   
-      .row
+      .row(data-aos="fade-left")
         .col-lg-5.col-sm-12.col-md-12
           ul.lista-ul--color.fa-al
             li.mb-2
@@ -69,12 +69,12 @@
             li.mb-2.surrayar
   
       separador
-      #t_2_2.titulo-segundo.mb-4
+      #t_2_2.titulo-segundo.mb-4(data-aos="fade-left")
         h2 2.2 Tipos de servicios postventa
   
-      p.mb-4 Entre los servicios postventa que debe adoptar la empresa, ya sea para productos de larga duración con garantía de fábrica o para compras menos exigentes, Martínez (2021) propone los siguientes tipos de servicios postventa:
+      p.mb-4(data-aos="fade-left") Entre los servicios postventa que debe adoptar la empresa, ya sea para productos de larga duración con garantía de fábrica o para compras menos exigentes, Martínez (2021) propone los siguientes tipos de servicios postventa:
   
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-6.col-12.col-md-12.bg-color-5.borde-redondo-izquierdo.p-2.h-card
           .row.justify-content-center.align-items-center.p-3
             .col-3
@@ -97,9 +97,9 @@
               p.mb-5.text-white #[b Adiestramiento para el uso del producto:] orientaciones que ofrece la empresa al cliente para su uso eficaz.
               p.mb-0.text-white #[b Manejo de quejas y reclamaciones:] establecer canales de comunicación para que el cliente manifieste a la empresa sobre sus inconformidades.
   
-      p.mb-4 Los aportes que hace Pérez (2013) sobre los tipos de servicios son los siguientes, como se detalla en la tabla 4:
+      p.mb-4(data-aos="fade-left") Los aportes que hace Pérez (2013) sobre los tipos de servicios son los siguientes, como se detalla en la tabla 4:
   
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-10.col-md-12.col-sm-12
   
           .titulo-sexto.color-secundario.mb-4
@@ -127,9 +127,9 @@
                   td.text-center #[b De mantenimiento]
                   td Son los servicios de mantenimiento o de soporte técnico. Este servicio es muy agradecido por los clientes y sirve para fidelizar.
   
-      p.mb-5 Luego de realizarse la venta de los productos y servicios, la empresa puede hacer distintas actividades dirigidas según Pérez (2013) a:
+      p.mb-5(data-aos="fade-left") Luego de realizarse la venta de los productos y servicios, la empresa puede hacer distintas actividades dirigidas según Pérez (2013) a:
   
-      .row.justify-content-center.align-items-center.mb-4
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
         .col-lg-8.col-md-12.col-sm-12
   
           ImagenInfografica.color-acento-botones
@@ -151,12 +151,12 @@
       
   
       separador
-      #t_2_3.titulo-segundo.mb-4
+      #t_2_3.titulo-segundo.mb-4(data-aos="fade-left")
         h2 2.3 Fases del servicio postventa
   
-      p.mb-4 En el desarrollo del servicio postventa luego que el cliente ha realizado su compra, la empresa debe incorporar a sus protocolos acciones que dan fortaleza al seguimiento de clientes y este lo agradece. Al respecto Douglas (2020) sostiene aspectos a tener en cuenta.
+      p.mb-4(data-aos="fade-left") En el desarrollo del servicio postventa luego que el cliente ha realizado su compra, la empresa debe incorporar a sus protocolos acciones que dan fortaleza al seguimiento de clientes y este lo agradece. Al respecto Douglas (2020) sostiene aspectos a tener en cuenta.
   
-      figure
+      figure(data-aos="fade-left")
         .video
           iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/quSRRImn6k8?si=JylV_DElXucspEpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
         figcaption Video: Fases del servicio postventa.
