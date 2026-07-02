@@ -44,7 +44,7 @@
           #t_2_1.titulo-segundo.mb-4
             h2 2.1 Importancia del servicio postventa    
           p.mt-5 Cuando un cliente compra un producto o servicio, está cubriendo una necesidad y obteniendo una experiencia que de ser altamente satisfecha traería de vuelta a ese cliente en una recompra. Por tanto, tener un servicio postventa le permite a la empresa conocer esas experiencias y adoptar acciones de mejora que mantengan una relación duradera con el cliente y se cuantifique en rentabilidad.
-          p.mb-4 Es por eso, que el servicio postventa tiene como propósito fidelizar clientes y que su compra sea más seguida, se debe procurar:
+          p.mb-4 Es por eso que el servicio postventa tiene como propósito fidelizar clientes y que su compra sea más seguida, se debe procurar:
         .col-12.col-md-6.col-lg-3
           img(src='@/assets/curso/temas/tema2/img1.png', alt='')
   
@@ -97,22 +97,22 @@
               p.mb-5.text-white #[b Adiestramiento para el uso del producto:] orientaciones que ofrece la empresa al cliente para su uso eficaz.
               p.mb-0.text-white #[b Manejo de quejas y reclamaciones:] establecer canales de comunicación para que el cliente manifieste a la empresa sobre sus inconformidades.
   
-      p.mb-4(data-aos="fade-left") Los aportes que hace Pérez (2013) sobre los tipos de servicios son los siguientes, como se detalla en la tabla 4:
+      p.mb-4(data-aos="fade-left") Los aportes que hace Pérez (2013) sobre los tipos de servicios son los siguientes, como se detalla en la Tabla 4:
   
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-10.col-md-12.col-sm-12
   
           .titulo-sexto.color-secundario.mb-4
             h5 Tabla 4. 
-            | Tipos de servicios postventas en las empresas
+            | Tipos de servicios postventa en las empresas
   
           .tabla-a.color-primario
             table
               caption.mt-0 Nota. Pérez  (2013).
               thead
                 tr
-                  th.br-primario.bg-color-6.text-white Usuario
-                  th.br-primario.bg-color-6.text-white Cliente
+                  th.br-primario.bg-color-6.text-white.w-25 Tipo de servicio
+                  th.br-primario.bg-color-6.text-white Descripción
               tbody
                 tr
                   td.bggristabla2.text-center.bordederechoblanco #[b Promocionales]
@@ -137,13 +137,13 @@
               figure
                 img(src='@/assets/curso/temas/tema2/fig1.png', alt='Texto que describa la imagen')
             .tarjeta.bggristabla2.p-4(x="69%" y="14%" numero="+")
-              p Luego de haber tomado la decisión de realizar la compra, mientras llega el producto, si toca entregar la mercancía en el domicilio, bien sea #[em off-line] u #[em on-line] informarle al cliente la trazabilidad del producto para la entrega.
+              p Luego de haber tomado la decisión de realizar la compra, mientras llega el producto, si toca entregar la mercancía en el domicilio, bien sea #[em off-line] u #[em on-line],ß informarle al cliente la trazabilidad del producto para la entrega.
             .tarjeta.bggristabla2.p-4(x="87%" y="44%" numero="+")
               p Este es el servicio más conocido por los clientes y adoptado por las empresas, puede incluir reparación hasta el cambio del producto. De ofrecer además la garantía extendida que incluye más tiempo y otros agregados.
             .tarjeta.bggristabla2.p-4(x="68%" y="79%" numero="+")
               p Dependiendo el producto puede prestar apoyo técnico sobre cuidados o manejos del producto.
             .tarjeta.bggristabla2.p-4(x="32%" y="79%" numero="+")
-              p Busca la manera que los clientes interactúen con la empresa sobre sus productos y servicios, bien sea a través de llamadas telefónicas o encuestas.
+              p Busca la manera de que los clientes interactúen con la empresa sobre sus productos y servicios, bien sea a través de llamadas telefónicas o encuestas.
             .tarjeta.bggristabla2.p-4(x="11%" y="47%" numero="+")
               p A todo cliente le gustan las ofertas y las promociones, y los clientes se sienten más comprometidos cuando se les comunican esas promociones por teléfono o #[em email].
             .tarjeta.bggristabla2.p-4(x="28%" y="14%" numero="+")
@@ -159,7 +159,7 @@
       figure(data-aos="fade-left")
         .video
           iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/quSRRImn6k8?si=JylV_DElXucspEpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video: Fases del servicio postventa.
+        figcaption Video. Fases del servicio postventa.
   
   
   </template>

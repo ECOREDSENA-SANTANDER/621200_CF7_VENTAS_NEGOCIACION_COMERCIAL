@@ -91,102 +91,102 @@
                   p Con estas acciones se puede atraer nuevos clientes:
                   ol.lista-ol.fa-ol
                     li 
-                      span a. 
-                      span.mb-0 Repartir volantes: folletos o material P.O.P. que sirve para promocionar o dar a conocer algo. Acción muy económica acercarse al público objetivo y con volantes dar a conocer el negocio.
+                      span.fw-bold a. 
+                      span.mb-0 #[b Repartir volantes:] folletos o material P.O.P. que sirve para promocionar o dar a conocer algo. Acción muy económica acercarse al público objetivo y con volantes dar a conocer el negocio.
                     li 
-                      span b. 
-                      span.mb-0 Ofrecer muestras gratis: producto en dimensiones mas pequeñas para que el cliente conozca sus beneficios y atributos. En caso de un producto la muestra es efectiva para dar a conocerlo, en el caso de un servicio, se puede ofrecer una prueba.
+                      span.fw-bold b. 
+                      span.mb-0 #[b Ofrecer muestras gratis:] producto en dimensiones mas pequeñas para que el cliente conozca sus beneficios y atributos. En caso de un producto la muestra es efectiva para dar a conocerlo, en el caso de un servicio, se puede ofrecer una prueba.
                     li 
-                      span c. 
-                      span.mb-0 Entregar descuentos: es realizar disminuciones en el precio o servicio. Promociones especiales por 20 o 30 días para dar tiempo a que visiten el negocio.
+                      span.fw-bold c. 
+                      span.mb-0 #[b Entregar descuentos:] es realizar disminuciones en el precio o servicio. Promociones especiales por 20 o 30 días para dar tiempo a que visiten el negocio.
                     li 
-                      span d. 
-                      span.mb-0 Asistir a encuentros de negocios: asistir a eventos, ferias y exposiciones a través de Cámaras de Comercio, vinculaciones a gremios.
+                      span.fw-bold d. 
+                      span.mb-0 #[b Asistir a encuentros de negocios:] asistir a eventos, ferias y exposiciones a través de Cámaras de Comercio, vinculaciones a gremios.
                     li 
-                      span e. 
+                      span.fw-bold e. 
                       span.mb-0 Las referencias comerciales son recomendaciones de clientes u organizaciones del mismo sector que validan la calidad de un negocio, y pueden obtenerse a través de gremios, cámaras de comercio o clientes satisfechos.
                     li 
-                      span f. 
-                      span.mb-0 Crear un guion de 30 segundos: escribir lo que se va a decir o sustentar.  Definir la comunicación que se le quiere dar a los clientes, medios de comunicación e incluso posibles inversionistas.
+                      span.fw-bold f. 
+                      span.mb-0 #[b Crear un guion de 30 segundos:] escribir lo que se va a decir o sustentar.  Definir la comunicación que se le quiere dar a los clientes, medios de comunicación e incluso posibles inversionistas.
                     li 
-                      span g. 
-                      span.mb-0 Dar a conocer el negocio: se puede hacer por medio de redes sociales, emails, llamadas a amigos y conocidos, compartir información de objeto del negocio y su propuesta de valor.
+                      span.fw-bold g. 
+                      span.mb-0 #[b Dar a conocer el negocio:] se puede hacer por medio de redes sociales, emails, llamadas a amigos y conocidos, compartir información de objeto del negocio y su propuesta de valor.
                     li 
-                      span h. 
-                      span.mb-0 Aprovechar las redes sociales: estructuras compuestas por personas en internet. Busca presencia en la web, crea #[em blogs], anuncios en Instagram, Facebook y Twitter.
+                      span.fw-bold h. 
+                      span.mb-0 #[b Aprovechar las redes sociales:] estructuras compuestas por personas en internet. Busca presencia en la web, crea #[em blogs], anuncios en Instagram, Facebook y Twitter.
                     li 
-                      span i. 
-                      span.mb-0 Intercambiar tarjetas de presentación: son pequeñas impresiones en papel que da información comercial de una persona o entidad. Aunque un poco obsoleto, pero sigue siendo efectiva, es una manera de recordación cuando se presente la necesidad.
+                      span.fw-bold i. 
+                      span.mb-0 #[b Intercambiar tarjetas de presentación:] son pequeñas impresiones en papel que da información comercial de una persona o entidad. Aunque un poco obsoleto, pero sigue siendo efectiva, es una manera de recordación cuando se presente la necesidad.
             .row.col-xl-11.m-auto(titulo="Captar")
               .row.justify-content-center.align-items-center
                 .col-lg-12
                   p Para las empresas que se dedican a vender al cliente final (B2C), se pueden adoptar acciones para que esos clientes que muestren interés en los productos o servicios de la empresa realicen la principal acción: COMPRAR. Para Da Silva (2020), estas son acciones que ayudan a captar clientes:
                   ol.lista-ol.fa-ol
                     li 
-                      span a. 
-                      span.mb-0 #[em Blog] corporativo: es un sitio web donde se publica información o contenido del interés de los propietarios. La forma de presentarse la empresa con contenidos atractivos de su propuesta de valor.
+                      span.fw-bold a. 
+                      span.mb-0 #[b #[em Blog] corporativo:] es un sitio web donde se publica información o contenido del interés de los propietarios. La forma de presentarse la empresa con contenidos atractivos de su propuesta de valor.
                     li 
-                      span b. 
-                      span.mb-0 Redes sociales: son estructuras que se desarrollan en la internet y persiguen fines comunes. Esta con contenidos en las principales redes sociales que comparten su público objetivo.
+                      span.fw-bold b. 
+                      span.mb-0 #[b Redes sociales:] son estructuras que se desarrollan en la internet y persiguen fines comunes. Esta con contenidos en las principales redes sociales que comparten su público objetivo.
                     li 
-                      span c. 
-                      span.mb-0 Dar muestras gratis: producto en dimensiones más pequeñas para que el cliente conozca sus beneficios y atributos.
+                      span.fw-bold c. 
+                      span.mb-0 #[b Dar muestras gratis:] producto en dimensiones más pequeñas para que el cliente conozca sus beneficios y atributos.
                     li 
-                      span d. 
+                      span.fw-bold d. 
                       span.mb-0 En todas las etapas de la postventa dar muestras gratis es relevante y cumple una función más acentuada en la medida en que pasan las etapas. Puede servir para obtener datos del cliente o que continúe comprando.
                     li 
-                      span e. 
-                      span.mb-0 Correo electrónico: es un servicio de internet que permite enviar mensajes a personas u organizaciones. La utilización del correo en esta etapa debe procurar la personalización del cliente, dirigirse de manera personalizada y puntual a lo que necesita el cliente.
+                      span.fw-bold e. 
+                      span.mb-0 #[b Correo electrónico:] es un servicio de internet que permite enviar mensajes a personas u organizaciones. La utilización del correo en esta etapa debe procurar la personalización del cliente, dirigirse de manera personalizada y puntual a lo que necesita el cliente.
                     li 
-                      span f. 
-                      span.mb-0 Crear programas de fidelización: es un programa que realiza la empresa y ofrece premios por comprar. Crear membresías, cupones con descuento, mimos exclusivos, entre otros.
+                      span.fw-bold f. 
+                      span.mb-0 #[b Crear programas de fidelización:] es un programa que realiza la empresa y ofrece premios por comprar. Crear membresías, cupones con descuento, mimos exclusivos, entre otros.
                     li 
-                      span g. 
-                      span.mb-0 Crear comunidades virtuales: son aquellas personas que se unen a través de internet en grupo con intereses similares. Crear grupos en Facebook haciendo Lives, canales en YouTube.
+                      span.fw-bold g. 
+                      span.mb-0 #[b Crear comunidades virtuales:] son aquellas personas que se unen a través de internet en grupo con intereses similares. Crear grupos en Facebook haciendo Lives, canales en YouTube.
             .row.col-xl-11.m-auto(titulo="Fidelizar")
               .row.justify-content-center.align-items-center
                 .col-lg-12
                   p Estas acciones logran una relación duradera con los clientes en el tiempo:
                   ol.lista-ol.fa-ol
                     li 
-                      span a. 
-                      span.mb-0 Tarjetas de fidelización: se trata de premiar el consumo con premios. Este tipo de tarjetas ofrecen a los titulares una serie de ventajas adicionales como descuentos, puntos canjeables por regalos e incluso la devolución de un tanto por ciento de sus compras.
+                      span.fw-bold a. 
+                      span.mb-0 #[b Tarjetas de fidelización:] se trata de premiar el consumo con premios. Este tipo de tarjetas ofrecen a los titulares una serie de ventajas adicionales como descuentos, puntos canjeables por regalos e incluso la devolución de un tanto por ciento de sus compras.
                     li 
-                      span b. 
-                      span.mb-0 Cupones descuento: donde el usuario puede recortar un cupón y obtendrá una rebaja en el precio de algún producto o servicio del establecimiento. 
+                      span.fw-bold b. 
+                      span.mb-0 #[b Cupones descuento:] donde el usuario puede recortar un cupón y obtendrá una rebaja en el precio de algún producto o servicio del establecimiento. 
                     li 
-                      span c. 
-                      span.mb-0 Regalos: el cliente recibe un regalo, vinculado o no a la actividad de la empresa, éste es ofrecido bien en agradecimiento a la compra o uso de un producto o servicio del establecimiento. 
+                      span.fw-bold c. 
+                      span.mb-0 #[b Regalos:] el cliente recibe un regalo, vinculado o no a la actividad de la empresa, éste es ofrecido bien en agradecimiento a la compra o uso de un producto o servicio del establecimiento. 
                     li 
-                      span d. 
-                      span.mb-0 Puntos por compra: son promociones que dan entidades comerciales y financieras por la compra de sus productos y servicios. Permiten obtener una serie de beneficios en tiempo real.  Como la estrategia de los Almacenes Éxito “Puntos Colombia”. Cada punto obtenido equivale a 7 pesos y el cliente puede llevarlo como pago de su compra.
+                      span.fw-bold d. 
+                      span.mb-0 #[b Puntos por compra:] son promociones que dan entidades comerciales y financieras por la compra de sus productos y servicios. Permiten obtener una serie de beneficios en tiempo real.  Como la estrategia de los Almacenes Éxito “Puntos Colombia”. Cada punto obtenido equivale a 7 pesos y el cliente puede llevarlo como pago de su compra.
                     li 
-                      span e. 
-                      span.mb-0 Gestionar clientes a través de Apps: es una aplicación en el móvil para interactuar con los clientes. Estas aplicaciones pueden incorporar diversas funcionalidades, como una herramienta para buscar clientes y mantener toda la información organizada y clasificada según categorías o intereses.
+                      span.fw-bold e. 
+                      span.mb-0 #[b Gestionar clientes a través de Apps:] es una aplicación en el móvil para interactuar con los clientes. Estas aplicaciones pueden incorporar diversas funcionalidades, como una herramienta para buscar clientes y mantener toda la información organizada y clasificada según categorías o intereses.
                     li 
-                      span f. 
-                      span.mb-0 Comunicación personalizada: envío directo al cliente de ofertas con descuento exclusivo personalizados.
+                      span.fw-bold f. 
+                      span.mb-0 #[b Comunicación personalizada:] envío directo al cliente de ofertas con descuento exclusivo personalizados.
                     li 
-                      span g. 
-                      span.mb-0 Regalos: en ocasiones darán regalo al cliente por su volumen de compra, generalmente en fechas especiales.
+                      span.fw-bold g. 
+                      span.mb-0 #[b Regalos:] en ocasiones darán regalo al cliente por su volumen de compra, generalmente en fechas especiales.
                     li 
-                      span h. 
-                      span.mb-0 C.R.M. #[em (Customer Relationship Management)]: gestión de la relación con el cliente. Es una serie de actividades dirigidas al cliente como una estrategia de fidelización y de relación con el cliente a largo plazo apoyadas en tecnologías. Es montado para tener comunicaciones más fluidas y directas con los clientes.
+                      span.fw-bold h. 
+                      span.mb-0 #[b C.R.M. #[em (Customer Relationship Management)]:] gestión de la relación con el cliente. Es una serie de actividades dirigidas al cliente como una estrategia de fidelización y de relación con el cliente a largo plazo apoyadas en tecnologías. Es montado para tener comunicaciones más fluidas y directas con los clientes.
                     li 
-                      span.text-bold i. 
-                      span.mb-0 Club de clientes: también conocidos como Clubes de fidelización son aquellos que premian a los clientes por sus compras repetidas. Puede ser por gustos, hábitos o labores que se realicen en la casa.
+                      span.fw-bold i. 
+                      span.mb-0 #[b Club de clientes:] también conocidos como Clubes de fidelización son aquellos que premian a los clientes por sus compras repetidas. Puede ser por gustos, hábitos o labores que se realicen en la casa.
             .row.col-xl-11.m-auto(titulo="Retener")
               .row.justify-content-center.align-items-center
                 .col-lg-12
                   p Retener clientes es la labor del día a día del asesor comercial, cada vez que un cliente visita el punto de venta o realiza una compra por otro medio, la empresa debe asegurarse que la experiencia de ese cliente sea única. Un cliente puede o no repetir la compra porque no tiene otro lugar donde comprar, en cuanto tenga otra opción deja de comprar. Es por eso que la empresa debe hacer esfuerzos por mantener esa relación por largo plazo.
   
-      p(data-aos="fade-left") Por tanto, el vendedor debe tener en cuenta estas etapas y la empresa considerar llevar a cabo programas de atención de servicio al cliente y servicio de postventa, para las MiPymes se debe considerar unir estos programas en la medida de sus recursos. 
+      p(data-aos="fade-left") Por tanto, el vendedor debe tener en cuenta estas etapas y la empresa considerar llevar a cabo programas de atención de servicio al cliente y servicio de postventa, para las mipymes se debe considerar unir estos programas en la medida de sus recursos. 
   
       separador
       #t_1_2.titulo-segundo.mb-4(data-aos="fade-left")
         h2 1.2 Elementos de la postventa
   
-      p.mb-4(data-aos="fade-left") La postventa incluye una serie de acciones cuya finalidad es garantizar la satisfacción del cliente, con el objetivo de que quede encantado y regrese. Según Ramírez (2018), estas acciones deben estar acompañadas de ciertos elementos esenciales en la postventa. El cliente debe sentir que la empresa lo comprende, resuelve sus quejas y atiende sus dudas. Por tanto, los tres elementos que constituyen la postventa, según Ramírez (2018), son:
+      p.mb-4(data-aos="fade-left") La postventa incluye una serie de acciones cuya finalidad es garantizar la satisfacción del cliente, con el objetivo de que quede encantado y regrese. Según Ramírez (2018), estas acciones deben estar acompañadas de ciertos elementos esenciales en la postventa. El cliente debe sentir que la empresa lo comprende, resuelve sus quejas y atiende sus dudas. Por tanto, los tres elementos que constituyen la postventa, son:
   
       .row(data-aos="fade-left")
         SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
@@ -253,7 +253,7 @@
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Planificación de la actividad postventa
   
-      p.mb-4(data-aos="fade-left") Se debe decidir qué hacer, cómo hacerlo y con qué hacerlo en referencia al proceso del servicio postventa. Es importante considerar características como el objetivo, la duración del proyecto, las personas responsables e intervinientes en el proceso, los recursos disponibles, las actividades a realizar y los indicadores para medir la actividad. Ejemplos sugeridos por Pérez (2013) se presentan en la tabla 2.
+      p.mb-4(data-aos="fade-left") Se debe decidir qué hacer, cómo hacerlo y con qué hacerlo en referencia al proceso del servicio postventa. Es importante considerar características como el objetivo, la duración del proyecto, las personas responsables e intervinientes en el proceso, los recursos disponibles, las actividades a realizar y los indicadores para medir la actividad. Ejemplos sugeridos por Pérez (2013) se presentan en la Tabla 2.
   
       .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
         .col-12.col-md-12.col-lg-12
@@ -310,7 +310,7 @@
                   td.bordeizquierdoabajo $250.000
                   td.bordeizquierdoabajo Tiempo de respuesta
   
-      p.mb-4(data-aos="fade-left") A continuación, se presentan algunos indicadores que se utilizan con frecuencia. La empresa, según la actividad, puede aportar otros indicadores adicionales, los cuales están detallados en la tabla 3.
+      p.mb-4(data-aos="fade-left") A continuación, se presentan algunos indicadores que se utilizan con frecuencia. La empresa, según la actividad, puede aportar otros indicadores adicionales, los cuales están detallados en la Tabla 3.
   
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-12.col-md-12.col-lg-8
@@ -483,7 +483,7 @@
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Mejora de la actividad postventa
   
-      p.mb-4 Las acciones de mejora en la postventa deben estar alineadas tanto con lo planificado y ejecutado como con los PQR (quejas, peticiones y reclamos) de los clientes. La empresa debe identificar y redefinir las fallas en los procesos, ya que una gestión efectiva de esta tarea contribuye a elevar la calidad del servicio postventa.
+      p.mb-4 Las acciones de mejora en la postventa deben estar alineadas tanto con lo planificado y ejecutado como con los PQR (Peticiones, Quejas y Reclamos) de los clientes. La empresa debe identificar y redefinir las fallas en los procesos, ya que una gestión efectiva de esta tarea contribuye a elevar la calidad del servicio postventa.
   
       .row.justify-content-center
         .col-sm-12.col-md-10.col-lg-4.p-0
@@ -499,7 +499,7 @@
   
       .row(data-aos="fade-left")
         p A continuación, se presentan unas actividades que corresponden a un servicio postventa, cada una de ellas tiene una serie de actividades con secuencias definidas para realizarlas de manera correcta, e incluso a su interior demanda otras actividades. 
-        p El servicio postventa tiene una funcionalidad muy parecida al servicio al cliente y se deben trabajar en conjunto, puesto que tienen alto grado de dependencia la una de la otra. Las grandes organizaciones montan estos servicios por separados, pero las MiPymes puede integrar estos servicios o subcontratarlos.  
+        p El servicio postventa tiene una funcionalidad muy parecida al servicio al cliente y se deben trabajar en conjunto, puesto que tienen alto grado de dependencia la una de la otra. Las grandes organizaciones montan estos servicios por separados, pero las mipymes puede integrar estos servicios o subcontratarlos.  
         p.mb-5 Entonces, ¿cómo estructurar un servicio postventa? Según Pérez (2013), se deben considerar tanto la estructura como las funciones del servicio, tal como se detalla a continuación:
   
       .row.align-items-center.mb-5.titulo-icono
@@ -611,17 +611,17 @@
                 h3.bgblanco.text-center.p-2 Gestión de la llamada
             .row.justify-content-center.p-2
               p.text-center Si no está enchufado y lo enchufa y enciende correctamente, fin de la llamada.
-              p.text-center Si estaba encendido y no funciona, entonces se reporta al Servicio de Asistencia Técnica.
+              p.text-center Si estaba encendido y no funciona, entonces se reporta al servicio de asistencia técnica.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/tema1/ico3-3.png' alt='AvatarTop')
             .row.justify-content-center
               .col-10
-                h3.bgblanco.text-center.p-2 Servicio de Asistencia Técnica
+                h3.bgblanco.text-center.p-2 Servicio de asistencia técnica
             .row.justify-content-center.p-2
-              p.text-center El Servicio de Asistencia Técnica reconoce fallos amparados en la garantía y recomienda un cambio de computador.
-              p.text-center Se registra el dictamen de la incidencia y se pasa a recoger el computador al sitio donde se encuentra el cliente o recibe el PC en el punto de venta.
+              p.text-center El servicio de asistencia técnica reconoce fallos amparados en la garantía y recomienda un cambio de computador.
+              p.text-center Se registra el dictamen de la incidencia y se pasa a recoger el computador al sitio donde se encuentra el cliente o recibe el computador en el punto de venta.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
@@ -630,8 +630,8 @@
               .col-10
                 h3.bgblanco.text-center.p-2 Gestión final
             .row.justify-content-center.p-2
-              p.text-center Se realiza el cambio del PC averiado por uno nuevo.
-              p.text-center Se llama posteriormente a preguntar cómo se siente con el servicio prestado y su nuevo PC.
+              p.text-center Se realiza el cambio del computador averiado por uno nuevo.
+              p.text-center Se llama posteriormente a preguntar cómo se siente con el servicio prestado y su nuevo computador.
   
   
   </template>

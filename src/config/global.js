@@ -60,7 +60,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Tipos de servicios postventas',
+            titulo: 'Tipos de servicios postventa',
             hash: 't_2_2',
           },
           {
@@ -144,7 +144,7 @@ export default {
       link: 'https://www.zendesk.com.mx/blog/seguimiento-postventa/',
     },
     {
-      tema: 'Tipos de servicios postventas',
+      tema: 'Tipos de servicios postventa',
       referencia:
         '<i>Servicio posventa: qué es, cómo implementarlo con éxito y ejemplos</i>. (2024, 17 junio).',
       tipo: 'Página web',
@@ -182,45 +182,34 @@ export default {
     {
       referencia:
         'Artal Castells, M. (2010). <i>Dirección de ventas</i>. Organización del departamento de ventas y gestión de vendedores. ESIC Alfaomega. 9ª edición.',
-      link: '',
     },
     {
       referencia:
         'Cuartin, A. (2020). <i>¿Qué son los indicadores de medición?</i>',
-      link:
-        'https://blog.lemontech.com/que-son-indicadores-y-cuantos-tipos-existen-ejemplos/',
     },
     {
       referencia:
         'Da Silva, D. (2020).  <i>¿Qué es atención al cliente? Guía introductoria con infografía</i>.',
-      link: 'https://www.zendesk.com.mx/blog/que-es-atencion-al-cliente/',
     },
     {
       referencia:
         'Zendesk, (2023). <i>¿Cómo captar clientes potenciales?: las 7 estrategias más sencillas</i>.',
-      link:
-        'https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
     },
     {
       referencia:
         'El viaje del cliente (2021). <i>¿Qué es la atención al Cliente? Definición y características</i>.',
-      link:
-        'https://elviajedelcliente.com/academia/servicio-al-cliente-customer-service/',
     },
     {
       referencia:
         'Pérez Feijoo, H., Pérez Hernández, Jorge M., López González, L. y Caballero Bravo, C. (2013). <i>Comunicación y atención al cliente</i>. McGraw Hill Education.',
-      link: '',
     },
     {
       referencia:
         'Kotler, P.  y Armstrong, G. (2012). <i>Marketing</i>. Editorial Pearson.',
-      link: '',
     },
     {
       referencia:
         'Ramírez, Al. (2018). <i>¿Qué elementos componen la posventa?</i>',
-      link: 'https://www.informabtl.com/que-elementos-componen-la-posventa/',
     },
   ],
   creditos: [
@@ -229,8 +218,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          cargo:
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
@@ -286,7 +276,7 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>full-stack</i> Junior',
+          cargo: 'Desarrolladora <i>full-stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -300,12 +290,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Erika Daniela Manrique Rueda',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Andrea Ardila Chaparro',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

@@ -16,7 +16,7 @@
           figure
             .video
               iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/c2PD39QIU2Y?si=PIp8MwKUugquQSLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-            figcaption Video: La posventa.
+            figcaption Video. La posventa.
   
   </template>
 
