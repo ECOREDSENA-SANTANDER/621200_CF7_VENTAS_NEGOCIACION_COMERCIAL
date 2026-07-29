@@ -193,7 +193,7 @@ export default {
     },
     {
       referencia:
-        'Zendesk, (2023). <i>¿Cómo captar clientes potenciales?: las 7 estrategias más sencillas</i>.',
+        'Zendesk. (2023). <i>¿Cómo captar clientes potenciales?: las 7 estrategias más sencillas.</i>',
     },
     {
       referencia:

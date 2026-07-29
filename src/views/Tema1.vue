@@ -110,7 +110,7 @@
                       span.mb-0 #[b Crear un guion de 30 segundos:] escribir lo que se va a decir o sustentar.  Definir la comunicación que se le quiere dar a los clientes, medios de comunicación e incluso posibles inversionistas.
                     li 
                       span.fw-bold g. 
-                      span.mb-0 #[b Dar a conocer el negocio:] se puede hacer por medio de redes sociales, emails, llamadas a amigos y conocidos, compartir información de objeto del negocio y su propuesta de valor.
+                      span.mb-0 #[b Dar a conocer el negocio:] se puede hacer por medio de redes sociales, #[em emails], llamadas a amigos y conocidos, compartir información de objeto del negocio y su propuesta de valor.
                     li 
                       span.fw-bold h. 
                       span.mb-0 #[b Aprovechar las redes sociales:] estructuras compuestas por personas en internet. Busca presencia en la web, crea #[em blogs], anuncios en Instagram, Facebook y Twitter.
@@ -142,7 +142,7 @@
                       span.mb-0 #[b Crear programas de fidelización:] es un programa que realiza la empresa y ofrece premios por comprar. Crear membresías, cupones con descuento, mimos exclusivos, entre otros.
                     li 
                       span.fw-bold g. 
-                      span.mb-0 #[b Crear comunidades virtuales:] son aquellas personas que se unen a través de internet en grupo con intereses similares. Crear grupos en Facebook haciendo Lives, canales en YouTube.
+                      span.mb-0 #[b Crear comunidades virtuales:] son aquellas personas que se unen a través de internet en grupo con intereses similares. Crear grupos en Facebook haciendo #[em Lives], canales en YouTube.
             .row.col-xl-11.m-auto(titulo="Fidelizar")
               .row.justify-content-center.align-items-center
                 .col-lg-12
@@ -171,7 +171,7 @@
                       span.mb-0 #[b Regalos:] en ocasiones darán regalo al cliente por su volumen de compra, generalmente en fechas especiales.
                     li 
                       span.fw-bold h. 
-                      span.mb-0 #[b C.R.M. #[em (Customer Relationship Management)]:] gestión de la relación con el cliente. Es una serie de actividades dirigidas al cliente como una estrategia de fidelización y de relación con el cliente a largo plazo apoyadas en tecnologías. Es montado para tener comunicaciones más fluidas y directas con los clientes.
+                      span.mb-0 #[b #[em C.R.M. (Customer Relationship Management)]:] gestión de la relación con el cliente. Es una serie de actividades dirigidas al cliente como una estrategia de fidelización y de relación con el cliente a largo plazo apoyadas en tecnologías. Es montado para tener comunicaciones más fluidas y directas con los clientes.
                     li 
                       span.fw-bold i. 
                       span.mb-0 #[b Club de clientes:] también conocidos como Clubes de fidelización son aquellos que premian a los clientes por sus compras repetidas. Puede ser por gustos, hábitos o labores que se realicen en la casa.
@@ -245,7 +245,7 @@
             h5 Figura 1. 
             | Proceso para la gestión de la calidad del servicio postventa 
           img(src='@/assets/curso/temas/tema1/fig1.png', alt='El proceso para gestionar la calidad del servicio postventa se compone de cuatro etapas clave: planificación, implementación, control y mejora continua. Primero, es esencial planificar las estrategias y procedimientos necesarios para asegurar un servicio postventa de alta calidad. A continuación, se debe implementar estos planes de manera efectiva. Luego, es crucial controlar y supervisar el desempeño del servicio para asegurar que se mantenga dentro de los estándares establecidos. Finalmente, se debe buscar constantemente la mejora del servicio, ajustando y optimizando los procesos según sea necesario para satisfacer y superar las expectativas de los clientes.')
-          p.small-text.mt-4 Nota: adaptado de Pérez (2013). 
+          p.small-text.mt-4 Nota. Adaptado de Pérez (2013).
 
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
