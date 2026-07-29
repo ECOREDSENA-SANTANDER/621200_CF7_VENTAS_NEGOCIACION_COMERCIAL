@@ -14,7 +14,7 @@
           p La postventa, según Sale Forje (2018), es “la parte de la atención al cliente que reúne todas las estrategias pensadas para mejorar la experiencia después de la compra y mantener una relación duradera con los clientes, siempre correspondiendo a sus expectativas y necesidades”.
           p El servicio postventa para Pérez (2013) es “el conjunto de mecanismos y tareas que emplea la organización para, una vez efectuada la venta, lograr la satisfacción total del cliente con el objetivo de que se repita la compra, recomiende la marca o el producto, entre otras” (p. 184).
           .row.bg-color-4
-            p.p-5.mb-0 Es recomendable que el vendedor le de claridad al cliente, sobre todo cuando se hacen ventas por transacciones, “todos los detalles sobre el servicio, los pagos, transportes y organización” (Artal, 2010, p. 326).
+            p.p-5.mb-0 Es recomendable que el vendedor le dé claridad al cliente, sobre todo cuando se hacen ventas por transacciones, “todos los detalles sobre el servicio, los pagos, transportes y organización” (Artal, 2010, p. 326).
   
       p.mt-5(data-aos="fade-left") Como actividades de postventa o seguimiento a la venta, Artal (2010) señala:
       .row.justify-content-center.mb-5(data-aos="fade-left")
