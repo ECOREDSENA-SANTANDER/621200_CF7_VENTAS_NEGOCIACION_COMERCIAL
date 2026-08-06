@@ -15,25 +15,25 @@
             .tarjeta.color-secundario--borde.p-4(titulo="Base de datos de los clientes")
               .row.align-items-center.justify-content-center
                 .col-auto
-                  img(src='@/assets/curso/temas/tema2/tab1-1.png', alt='')
+                  img(src='@/assets/curso/temas/tema2/tab1-1.png')
                 .col-8
                   p Tener listado de los clientes con su información básica, especialmente el teléfono para realizar #[em telemarketing], y de esta manera comunicarse con los clientes vía telefónica. 
             .tarjeta.color-secundario--borde.p-4(titulo="Correspondencia")
               .row.align-items-center.justify-content-center
                 .col-auto
-                  img(src='@/assets/curso/temas/tema2/tab1-2.png', alt='')
+                  img(src='@/assets/curso/temas/tema2/tab1-2.png')
                 .col-8
                   p Puede utilizar cualquier medio, el usado comúnmente es el correo electrónico, donde pueda comunicar como van las incidencias u otros envíos como catálogos, revistas, u otras invitaciones. 
             .tarjeta.color-secundario--borde.p-4(titulo="Página web y correo electrónico")
               .row.align-items-center.justify-content-center
                 .col-auto
-                  img(src='@/assets/curso/temas/tema2/tab1-3.png', alt='')
+                  img(src='@/assets/curso/temas/tema2/tab1-3.png')
                 .col-8
                   p Contar con una página web es hasta hoy el mejor modo más económico y rápido para comunicarse con el cliente.  
             .tarjeta.color-secundario--borde.p-4(titulo="Visita personal")
               .row.align-items-center.justify-content-center
                 .col-auto
-                  img(src='@/assets/curso/temas/tema2/tab1-4.png', alt='')
+                  img(src='@/assets/curso/temas/tema2/tab1-4.png')
                 .col-8
                   p Es el mejor servicio de postventa, pero también el más costoso. 
   
@@ -46,7 +46,7 @@
           p.mt-5 Cuando un cliente compra un producto o servicio, está cubriendo una necesidad y obteniendo una experiencia que de ser altamente satisfecha traería de vuelta a ese cliente en una recompra. Por tanto, tener un servicio postventa le permite a la empresa conocer esas experiencias y adoptar acciones de mejora que mantengan una relación duradera con el cliente y se cuantifique en rentabilidad.
           p.mb-4 Es por eso que el servicio postventa tiene como propósito fidelizar clientes y que su compra sea más seguida, se debe procurar:
         .col-12.col-md-6.col-lg-3
-          img(src='@/assets/curso/temas/tema2/img1.png', alt='')
+          img(src='@/assets/curso/temas/tema2/img1.png')
   
       .row(data-aos="fade-left")
         .col-lg-5.col-sm-12.col-md-12
@@ -78,7 +78,7 @@
         .col-lg-6.col-12.col-md-12.bg-color-5.borde-redondo-izquierdo.p-2.h-card
           .row.justify-content-center.align-items-center.p-3
             .col-3
-              img(src='@/assets/curso/temas/tema2/tar1-1.png', alt='')
+              img(src='@/assets/curso/temas/tema2/tar1-1.png')
           .bg-color-8.mx-5.mb-3
               h3.text-center.p-1  Los servicios técnicos que se llevan sobre los productos
           .row.justify-content-center.align-items-center
@@ -89,7 +89,7 @@
         .col-lg-6.col-12.col-md-12.bg-color-6.borde-redondo-derecho.p-2.h-card
           .row.justify-content-center.align-items-center.p-3
             .col-3
-              img(src='@/assets/curso/temas/tema2/tar1-2.png', alt='')
+              img(src='@/assets/curso/temas/tema2/tar1-2.png')
           .bg-color-5.mx-5.mb-2
               h3.text-center Los servicios que se prestan a quien adquiere el producto o servicio
           .row.justify-content-center.align-items-center.mb-2
@@ -135,7 +135,7 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/tema2/fig1.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/fig1.png')
             .tarjeta.bggristabla2.p-4(x="69%" y="14%" numero="+")
               p Luego de haber tomado la decisión de realizar la compra, mientras llega el producto, si toca entregar la mercancía en el domicilio, bien sea #[em off-line] u #[em on-line],ß informarle al cliente la trazabilidad del producto para la entrega.
             .tarjeta.bggristabla2.p-4(x="87%" y="44%" numero="+")

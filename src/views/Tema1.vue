@@ -9,7 +9,7 @@
   
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-md-10.col-lg-4
-          img(src='@/assets/curso/temas/tema1/img1.png', alt='')
+          img(src='@/assets/curso/temas/tema1/img1.png')
         .col-sm-12.col-md-12.col-lg-8
           p La postventa, según Sale Forje (2018), es “la parte de la atención al cliente que reúne todas las estrategias pensadas para mejorar la experiencia después de la compra y mantener una relación duradera con los clientes, siempre correspondiendo a sus expectativas y necesidades”.
           p El servicio postventa para Pérez (2013) es “el conjunto de mecanismos y tareas que emplea la organización para, una vez efectuada la venta, lograr la satisfacción total del cliente con el objetivo de que se repita la compra, recomiende la marca o el producto, entre otras” (p. 184).
@@ -193,7 +193,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/tema1/ico1-2.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema1/ico1-2.png')
             .row.justify-content-center
               .col-10
                 h3.bgblanco.text-center.p-1 La atención al cliente
@@ -202,7 +202,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-8
-                img(src='@/assets/curso/temas/tema1/ico1-3.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema1/ico1-3.png')
             .row.justify-content-center
               .col-10
                 h3.bgblanco.text-center.p-1 El seguimiento de la venta
@@ -211,7 +211,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/tema1/ico1-4.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema1/ico1-4.png')
             .row.justify-content-center
               .col-10
                 h3.bgblanco.text-center.p-1 Las devoluciones
@@ -220,7 +220,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/tema1/ico1-1.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema1/ico1-1.png')
             .row.justify-content-center
               .col-10
                 h3.bgblanco.text-center.p-1 La recompra
@@ -249,7 +249,7 @@
 
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/icono.svg', alt='')
+          img(src='@/assets/curso/temas/icono.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Planificación de la actividad postventa
   
@@ -419,7 +419,7 @@
 
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/icono.svg', alt='')
+          img(src='@/assets/curso/temas/icono.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Implementación de la actividad postventa
   
@@ -431,31 +431,31 @@
             .row.col-xl-11.m-auto(titulo="Capacitación al equipo de postventa")
               .row.justify-content-center.align-items-center
                 .col-auto
-                  img(src='@/assets/curso/temas/tema1/tar1-1.png', alt='')
+                  img(src='@/assets/curso/temas/tema1/tar1-1.png')
                 .col-10
                   p.mt-3 Al igual que el equipo de atención al cliente, este equipo deber ser entrenado en las tareas a realizar con respecto a los elementos o partes de la postventa, cada una de las etapas, además de los protocolos de atención y comunicación de la organización. 
             .row.col-xl-11.m-auto(titulo="Alistar los recursos que en cada actividad se necesitan")
               .row.justify-content-center.align-items-center
                 .col-auto
-                  img(src='@/assets/curso/temas/tema1/tar1-2.png', alt='')
+                  img(src='@/assets/curso/temas/tema1/tar1-2.png')
                 .col-10
                   p.mt-3 De acuerdo con lo expuesto en la planificación, revisar los recursos humanos, técnicos y financieros que son necesarios para llevar a cabo el plan. 
             .row.col-xl-11.m-auto(titulo="Realizar el plan")
               .row.justify-content-center.align-items-center
                 .col-auto
-                  img(src='@/assets/curso/temas/tema1/tar1-3.png', alt='')
+                  img(src='@/assets/curso/temas/tema1/tar1-3.png')
                 .col-10
                   p.mt-3 Es el momento de llevar a cabo la operación en cada uno de sus componentes. 
             .row.col-xl-11.m-auto(titulo="Realizar los informes de servicio")
               .row.justify-content-center.align-items-center
                 .col-auto
-                  img(src='@/assets/curso/temas/tema1/tar1-4.png', alt='').img95
+                  img(src='@/assets/curso/temas/tema1/tar1-4.png').img95
                 .col-10
                   p.mt-3 La manera de tener la información necesaria para dar explicación del cumplimiento de los indicadores de gestión de la actividad de postventa.
   
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/icono.svg', alt='')
+          img(src='@/assets/curso/temas/icono.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Control de la actividad postventa
   
@@ -479,7 +479,7 @@
   
       .row.align-items-center.mb-5.titulo-icono
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/icono.svg', alt='')
+          img(src='@/assets/curso/temas/icono.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Mejora de la actividad postventa
   
@@ -487,7 +487,7 @@
   
       .row.justify-content-center
         .col-sm-12.col-md-10.col-lg-4.p-0
-          img(src='@/assets/curso/temas/tema1/img2.png', alt='')
+          img(src='@/assets/curso/temas/tema1/img2.png')
         .col-sm-12.col-md-12.col-lg-6.bg-color-9.mb-5
           .row.align-items-center.justify-content-center.mt-5.mb-5
             .col-sm-12.col-md-12.col-lg-9.mb-5.mt-5
@@ -504,7 +504,7 @@
   
       .row.align-items-center.mb-5.titulo-icono
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/icono.svg', alt='')
+          img(src='@/assets/curso/temas/icono.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Recepción y atención de incidencias
   
@@ -515,28 +515,28 @@
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.borde-redondo-abajo
             .crd_hover_txt--img
-              img(src="@/assets/curso/temas/tema1/tan1-1.png", alt="alt")
+              img(src="@/assets/curso/temas/tema1/tan1-1.png")
             .crd_hover_txt--body.borde-redondo-abajo
               h3.mb-3.text-center Atención a las incidencias
               p.mb-0.text-center Una persona con perfil comunicativo y protocolos para atender y recoger las solicitudes del cliente.
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.borde-redondo-abajo
             .crd_hover_txt--img
-              img(src="@/assets/curso/temas/tema1/tan1-2.png", alt="alt")
+              img(src="@/assets/curso/temas/tema1/tan1-2.png")
             .crd_hover_txt--body.borde-redondo-abajo
               h3.mb-3.text-center Distribución de las incidencias
               p.mb-0.text-center Una persona encargada de canalizar las incidencias hacia el área correspondiente. Por ejemplo, si el problema está relacionado con facturas, lo escalará al departamento de facturación; si se trata de daños, lo dirigirá al área de reparaciones, y así sucesivamente.
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt.borde-redondo-abajo
             .crd_hover_txt--img
-              img(src="@/assets/curso/temas/tema1/tan1-3.png", alt="alt")
+              img(src="@/assets/curso/temas/tema1/tan1-3.png")
             .crd_hover_txt--body.borde-redondo-abajo
               h3.mb-3.text-center Gestión de las incidencias
               p.mb-0.text-center La persona encargada debe tener capacidad dependiendo de la solicitud de dar solución desde su rol, pero si el caso tiene mayor complejidad, escalarlo a la unidad correspondiente. Debe estar atento a si se le solucionó el problema y en lo posible hacer seguimiento para conocer si su solicitud o problema tuvo solución.
   
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/icono.svg', alt='')
+          img(src='@/assets/curso/temas/icono.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Servicio de asistencia técnica
   
@@ -547,7 +547,7 @@
           .overflow-hidden.h-100.p-3
             .row.align-items-center.justify-content-center.bg-color-4.br-2.p-4
               .col-5
-                img(src='@/assets/curso/temas/tema1/ico2-1.png', alt='').img95.mb-4
+                img(src='@/assets/curso/temas/tema1/ico2-1.png').img95.mb-4
               .row.justify-content-center.mb-3
                 .col-12
                   .bg-color-8.p-1 
@@ -557,7 +557,7 @@
           .overflow-hidden.h-100.p-3
             .row.align-items-center.justify-content-center.bg-color-4.br-2.p-4
               .col-5
-                img(src='@/assets/curso/temas/tema1/ico2-2.png', alt='').mb-4
+                img(src='@/assets/curso/temas/tema1/ico2-2.png').mb-4
               .row.justify-content-center.mb-3
                 .col-12
                   .bg-color-8.p-1 
@@ -567,7 +567,7 @@
           .overflow-hidden.h-100.p-3
             .row.align-items-center.justify-content-center.bg-color-4.br-2.p-4
               .col-5
-                img(src='@/assets/curso/temas/tema1/ico2-3.png', alt='').mb-4
+                img(src='@/assets/curso/temas/tema1/ico2-3.png').mb-4
               .row.justify-content-center.mb-3
                 .col-12
                   .bg-color-8.p-1 
@@ -576,7 +576,7 @@
   
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/icono.svg', alt='')
+          img(src='@/assets/curso/temas/icono.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Otros servicios implicados en la postventa
   
@@ -584,7 +584,7 @@
   
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/icono.svg', alt='')
+          img(src='@/assets/curso/temas/icono.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Caso práctico: procedimiento para estructurar un servicio postventa
   
@@ -595,7 +595,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/tema1/ico3-1.png' alt='AvatarTop').img95
+                img(src='@/assets/curso/temas/tema1/ico3-1.png').img95
             .row.justify-content-center
               .col-10
                 h3.bgblanco.text-center.p-2 Recepción y atención de incidencias
@@ -605,7 +605,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/tema1/ico3-2.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema1/ico3-2.png')
             .row.justify-content-center
               .col-10
                 h3.bgblanco.text-center.p-2 Gestión de la llamada
@@ -615,7 +615,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/tema1/ico3-3.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema1/ico3-3.png')
             .row.justify-content-center
               .col-10
                 h3.bgblanco.text-center.p-2 Servicio de asistencia técnica
@@ -625,7 +625,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/tema1/ico3-4.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema1/ico3-4.png')
             .row.justify-content-center
               .col-10
                 h3.bgblanco.text-center.p-2 Gestión final
